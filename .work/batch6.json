@@ -1,0 +1,347 @@
+[
+ {
+  "name": "ภาษีนำเข้า Shock Test",
+  "track": 2,
+  "sdgs": [
+   8
+  ],
+  "basedOn": [
+   "TARIFFED!",
+   "RiskWise"
+  ],
+  "idea": "Shows cross-border sellers how a tariff, VAT or port disruption changes landed cost and suggests new prices.",
+  "twist": "Simulates Thai rules on low-value imports and compares China-sourced stock with Thai-made alternatives.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 221,
+  "sources": [
+   "TARIFFED! (Microsoft AI Agents Hackathon 2025 (virtual), Best Use of Azure AI Agent Service) — Trade tariff analyzer that helps users understand how import/export tariffs affect supply chains and pricing.",
+   "RiskWise (Microsoft AI Agents Hackathon 2025 (virtual), Best Overall) — Multi-agent supply chain risk analysis system that flags potential risks such as port delays and geopolitical events that could affect production or delivery."
+  ]
+ },
+ {
+  "name": "บอทไม่มั่ว",
+  "track": 2,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "ModelProof: Sentinel AI Chat"
+  ],
+  "idea": "A second model checks every AI chat reply from a Shopee shop and blocks false warranty, stock or shipping promises.",
+  "twist": "Checks Thai replies against the shop's own policy and stock, and catches polite-but-wrong Thai answers.",
+  "score": [
+   4,
+   5,
+   3,
+   4
+  ],
+  "n": 222,
+  "sources": [
+   "ModelProof: Sentinel AI Chat (Microsoft AI Agents Hackathon 2025 (virtual), Best JavaScript/TypeScript Agent) — Trustworthiness validator that uses two language models to detect hallucinations, bias and toxicity in AI responses."
+  ]
+ },
+ {
+  "name": "สูตรแม่ Keeper",
+  "track": 2,
+  "sdgs": [
+   8
+  ],
+  "basedOn": [
+   "Konveyor"
+  ],
+  "idea": "Records a family cook preparing dishes and turns tacit know-how into standard recipes and training cards for new staff.",
+  "twist": "Converts 'ใส่พอประมาณ' into measured amounts from video, keeping taste consistent as a ShopeeFood kitchen grows.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 223,
+  "sources": [
+   "Konveyor (Microsoft AI Agents Hackathon 2025 (virtual), Best Python Agent) — Knowledge transfer agent that conveys organizational knowledge from where it resides to where it is needed."
+  ]
+ },
+ {
+  "name": "เลขบัตรปลอม Test Data",
+  "track": 2,
+  "sdgs": [
+   9
+  ],
+  "basedOn": [
+   "Avalon"
+  ],
+  "idea": "Generates realistic synthetic Thai customer data for testing fintech and e-commerce systems without real personal data.",
+  "twist": "Produces valid-checksum Thai ID numbers, real tambon addresses and Thai name spellings for PDPA-safe testing.",
+  "score": [
+   3,
+   5,
+   3,
+   5
+  ],
+  "n": 224,
+  "sources": [
+   "Avalon (UiPath AgentHack 2025 (global, online), Agentic Testing 1st place) — Agent that generates synthetic test data for test orchestration."
+  ]
+ },
+ {
+  "name": "พัสดุหาย Agent Network",
+  "track": 2,
+  "sdgs": [
+   8,
+   9
+  ],
+  "basedOn": [
+   "Agent Halo Agent Networks"
+  ],
+  "idea": "Seller, courier and buyer agents negotiate a lost-parcel case together, sharing evidence until one settlement is agreed.",
+  "twist": "Each agent follows its party's Thai platform rules, so cases close without three-way phone tag.",
+  "score": [
+   4,
+   3,
+   5,
+   4
+  ],
+  "n": 225,
+  "sources": [
+   "Agent Halo Agent Networks (Salesforce TDX 2025 Agentforce Hackathon, San Francisco, 1st place) — Agentforce agent network connecting insurers, repair shops and emergency responders to remove delays in the customer claims journey."
+  ]
+ },
+ {
+  "name": "งานทีละขั้น",
+  "track": 2,
+  "sdgs": [
+   4,
+   8
+  ],
+  "basedOn": [
+   "Vite Vere Offline"
+  ],
+  "idea": "Turns packing and café tasks into picture-by-picture spoken steps for workers with cognitive disabilities.",
+  "twist": "Built for Thai social-enterprise cafés and Shopee packing jobs, working offline on a cheap phone.",
+  "score": [
+   4,
+   4,
+   3,
+   3
+  ],
+  "n": 226,
+  "sources": [
+   "Vite Vere Offline (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 2nd place) — Offline digital companion that turns images into simple read-aloud instructions to foster autonomy for people with cognitive disabilities."
+  ]
+ },
+ {
+  "name": "พูดได้ Order",
+  "track": 2,
+  "sdgs": [
+   3,
+   11
+  ],
+  "basedOn": [
+   "Dream Assistant",
+   "Second Voice"
+  ],
+  "idea": "Stroke survivors with slurred speech order food and pay by voice using a model tuned to their own speech.",
+  "twist": "Learns Thai tones from a short personal recording session, since slurred Thai tones change word meaning.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 227,
+  "sources": [
+   "Dream Assistant (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), Unsloth Prize) — Custom voice assistant trained on an individual's recordings to understand the unique speech patterns of users with speech impairments.",
+   "Second Voice (OpenAI Build Week, 1st)"
+  ]
+ },
+ {
+  "name": "ห้องเรียนดอย",
+  "track": 2,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "LENTERA"
+  ],
+  "idea": "An offline school server gives a hill-area school a tutor, lesson library and progress tracking without internet.",
+  "twist": "Bridges Karen or Hmong home languages to Thai curriculum and syncs reports when a teacher reaches signal.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 228,
+  "sources": [
+   "LENTERA (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), Ollama Prize) — Offline educational microserver on affordable hardware for remote and disconnected rural regions."
+  ]
+ },
+ {
+  "name": "KidBright Blocks",
+  "track": 2,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Elisa"
+  ],
+  "idea": "Students build projects with visual blocks and the AI writes and explains the real microcontroller code behind them.",
+  "twist": "Targets the KidBright boards already in Thai schools, with Thai explanations and local projects like smart rice-drying.",
+  "score": [
+   3,
+   4,
+   3,
+   5
+  ],
+  "n": 229,
+  "sources": [
+   "Elisa (Anthropic Built with Opus 4.6 Claude Code Hackathon 2026 (virtual), 2nd place) — Visual block-based IDE that generates microcontroller code behind the scenes so middle schoolers can learn programming without writing code."
+  ]
+ },
+ {
+  "name": "ช่างราคาแฟร์",
+  "track": 2,
+  "sdgs": [
+   11
+  ],
+  "basedOn": [
+   "MaestrIA",
+   "SafeContractor"
+  ],
+  "idea": "Homeowners photograph a leak or broken air-con, get likely causes and a fair price range, then a vetted technician.",
+  "twist": "Checks contractor history against public records to avoid builders who take deposits and disappear.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 230,
+  "sources": [
+   "MaestrIA (Anthropic Built with Opus 4.7 Claude Code Hackathon 2026 (virtual), Keep Thinking Prize) — Home repair diagnostic tool that gives cost/time estimates and connects users with local skilled tradespeople.",
+   "SafeContractor (BU Spark! Civic Tech Hackathon 2025, Overall Winner, Boston) — Database where Boston residents verify contractor credentials from public records, with AI-generated summaries to avoid fraud."
+  ]
+ },
+ {
+  "name": "Carbon Slip for Exporters",
+  "track": 2,
+  "sdgs": [
+   9,
+   13
+  ],
+  "basedOn": [
+   "Tese"
+  ],
+  "idea": "Builds a carbon and ESG report for small exporters from invoices, electricity bills and shipping records.",
+  "twist": "Prepares Thai SMEs for EU buyer questionnaires using Thai grid emission factors and supplier data.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 231,
+  "sources": [
+   "Tese (G20 TechSprint 2024 (BIS & Banco Central do Brasil), winner, Brazil) — Builds ESG dashboards that streamline sustainability reporting for small and medium-sized enterprises."
+  ]
+ },
+ {
+  "name": "สิทธิ์คนพิการ Filer",
+  "track": 2,
+  "sdgs": [
+   16,
+   3
+  ],
+  "basedOn": [
+   "Vet's Claim"
+  ],
+  "idea": "Helps people with disabilities and families gather evidence and file disability card and allowance applications correctly.",
+  "twist": "Maps medical certificates to Thai disability categories and lists what the local office will ask for.",
+  "score": [
+   4,
+   4,
+   3,
+   3
+  ],
+  "n": 232,
+  "sources": [
+   "Vet's Claim (Stanford CodeX LLM x Law Hackathon 2024 (spring), Best Overall, Stanford) — AI chatbot that helps veterans gather information and file accurate VA disability claims using VA regulations and 20 years of case findings."
+  ]
+ },
+ {
+  "name": "รูปโดนขโมย",
+  "track": 2,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "Warhol"
+  ],
+  "idea": "Finds Shopee shops reusing a seller's product photos and assesses copyright infringement risk.",
+  "twist": "Drafts a Thai takedown request with evidence of original upload time and image similarity.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 233,
+  "sources": [
+   "Warhol (Stanford CodeX LLM x Law Hackathon 2026 (FutureLaw Week), Harvey Challenge Award, Stanford) — Uses vision models to find visually similar images online and applies copyright law and case law to assess infringement risk."
+  ]
+ },
+ {
+  "name": "OPD Twin",
+  "track": 2,
+  "sdgs": [
+   3,
+   9
+  ],
+  "basedOn": [
+   "HospiTwin"
+  ],
+  "idea": "A digital twin of a community hospital's outpatient flow finds the bottleneck behind long waits and tests fixes.",
+  "twist": "Models Thai OPD steps like vital-signs queue and pharmacy, then tests moving refills to รพ.สต. pickup.",
+  "score": [
+   4,
+   3,
+   5,
+   4
+  ],
+  "n": 234,
+  "sources": [
+   "HospiTwin (MIT Hacking Medicine 2025, InterSystems Best Use of GenAI in Healthcare prize, Boston) — Digital twin of an emergency department floor that identifies the bottlenecks causing long patient wait times."
+  ]
+ },
+ {
+  "name": "ไม่เผาอ้อย Advisor",
+  "track": 2,
+  "sdgs": [
+   2,
+   13
+  ],
+  "basedOn": [
+   "Field Advisor"
+  ],
+  "idea": "A voice advisor helps sugarcane and corn farmers plan harvest without burning, comparing cost and buyer options.",
+  "twist": "Links to nearby harvester rental and biomass buyers so the no-burn plan is cheaper, not just greener.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 235,
+  "sources": [
+   "Field Advisor (FAO Reboot the Earth Hackathon 2025, 2nd place, Rome) — Voice-powered RAG assistant giving farmers localized advice on crop selection, soil management and pest control for climate-resilient decisions."
+  ]
+ }
+]

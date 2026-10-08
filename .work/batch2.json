@@ -1,0 +1,357 @@
+[
+ {
+  "name": "Flaky Checkout Healer",
+  "track": 1,
+  "sdgs": [
+   9,
+   8
+  ],
+  "basedOn": [
+   "Avalon",
+   "SoloPath"
+  ],
+  "idea": "Generates synthetic Thai test data and quarantines flaky checkout tests, proposing fixes with Codex.",
+  "twist": "Synthetic data covers messy Thai addresses (หมู่, ซอย, ตำบล) and Buddhist-era dates, the inputs that actually break checkout.",
+  "score": [
+   3,
+   5,
+   4,
+   5
+  ],
+  "n": 161,
+  "sources": [
+   "Avalon (UiPath AgentHack 2025 (global, online), Agentic Testing 1st place) — Agent that generates synthetic test data for test orchestration.",
+   "SoloPath (UiPath AgentHack 2025 (global, online), Agentic Testing 2nd place + Business Ready Agent) — Agentic testing tool that detects anomalies and eliminates flaky tests."
+  ]
+ },
+ {
+  "name": "Rice Mill Maintenance Crew",
+  "track": 1,
+  "sdgs": [
+   9,
+   2
+  ],
+  "basedOn": [
+   "ARIA"
+  ],
+  "idea": "Five agents watch community rice-mill sensor logs, read Chinese and Thai manufacturer PDFs, and raise repair work orders.",
+  "twist": "Defers non-urgent repairs during harvest peak and pre-orders parts when the mill's run hours surge.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 162,
+  "sources": [
+   "ARIA (Anthropic Built with Opus 4.7 Claude Code Hackathon 2026 (virtual), Best Use of Claude Managed Agents) — Factory maintenance system using five agents to monitor machine health and generate diagnostics and repair work orders from manufacturer PDFs."
+  ]
+ },
+ {
+  "name": "Island Microgrid Agent",
+  "track": 1,
+  "sdgs": [
+   13,
+   11
+  ],
+  "basedOn": [
+   "Project LUCID"
+  ],
+  "idea": "Balances solar, battery and diesel for an island grid serving resorts and homes, scheduling loads to avoid blackouts.",
+  "twist": "Adapts to monsoon cloud cover and tourist high-season loads on islands like Koh Tao, protecting clinics first.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 163,
+  "sources": [
+   "Project LUCID (SAS Hackathon 2025, Global Champion Industry Energy Track) — AI energy analytics system using IoT, forecasting, anomaly detection and digital twins to improve grid resilience and renewable usage."
+  ]
+ },
+ {
+  "name": "หมู่บ้าน Solar Swap",
+  "track": 1,
+  "sdgs": [
+   13,
+   11
+  ],
+  "basedOn": [
+   "YellowGrid"
+  ],
+  "idea": "Lets households in a Thai housing estate auto-trade surplus rooftop solar with neighbours at a fair internal price.",
+  "twist": "Re-prices automatically when the utility tariff (Ft) changes and pauses trades during grid outages.",
+  "score": [
+   3,
+   4,
+   3,
+   4
+  ],
+  "n": 164,
+  "sources": [
+   "YellowGrid (CleanTech Hackathon 2025 (ENERGY EXPO), 1st place, Bucharest) — Energy management platform letting prosumers monitor their production and trade surplus energy based on real-time market prices."
+  ]
+ },
+ {
+  "name": "EV Rider Charge Planner",
+  "track": 1,
+  "sdgs": [
+   13,
+   8
+  ],
+  "basedOn": [
+   "Energy Agent AI"
+  ],
+  "idea": "Books battery-swap and charging slots for electric delivery riders based on their order queue and battery level.",
+  "twist": "Re-plans instantly when a swap station goes offline or rain floods a route, keeping riders earning.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 165,
+  "sources": [
+   "Energy Agent AI (Agent Development Kit Hackathon with Google Cloud 2025 (online), North America winner) — Multi-agent system that transforms energy-utility customer management using Google ADK orchestration."
+  ]
+ },
+ {
+  "name": "AWD Paddy Agent",
+  "track": 1,
+  "sdgs": [
+   2,
+   13
+  ],
+  "basedOn": [
+   "Terra-Optima",
+   "Field Advisor"
+  ],
+  "idea": "Controls irrigation pumps for alternate wetting and drying rice from water-level sensors, cutting water and methane.",
+  "twist": "Follows irrigation canal water-release schedules and gives Isan-dialect voice updates when it overrides the plan.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 166,
+  "sources": [
+   "Terra-Optima (FAO Reboot the Earth Hackathon 2025 (Morocco edition), 1st place, Rabat) — Agricultural platform combining AI, IoT field sensors and open data to help farmers raise yields, cut resource use and adapt to climate.",
+   "Field Advisor (FAO Reboot the Earth Hackathon 2025, 2nd place, Rome) — Voice-powered RAG assistant giving farmers localized advice on crop selection, soil management and pest control for climate-resilient decisions."
+  ]
+ },
+ {
+  "name": "ASF Farm Sentinel",
+  "track": 1,
+  "sdgs": [
+   2,
+   3
+  ],
+  "basedOn": [
+   "AgroSentinel"
+  ],
+  "idea": "Watches pig-farm mortality logs and nearby outbreak reports, triggering biosecurity lockdown steps when risk rises.",
+  "twist": "Raises the risk level automatically when trucks from outbreak provinces are scheduled, common in Thai pig trading.",
+  "score": [
+   4,
+   4,
+   3,
+   3
+  ],
+  "n": 167,
+  "sources": [
+   "AgroSentinel (4th FAO-CAAS Youth Hackathon on One Health 2025, 3rd prize (New Service Track)) — Satellite-guided early warning system combining remote sensing and AI to monitor antimicrobial resistance and zoonotic disease risk on farms."
+  ]
+ },
+ {
+  "name": "Burn Scar Watch",
+  "track": 1,
+  "sdgs": [
+   13,
+   11
+  ],
+  "basedOn": [
+   "EcoGuardian.AI",
+   "GeoSentinel AI"
+  ],
+  "idea": "Reads mock satellite hotspot feeds, predicts smoke drift and alerts village heads before fires spread.",
+  "twist": "Re-targets alerts when the wind shifts and drafts burn-ban reminders for northern provinces during the haze season.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 168,
+  "sources": [
+   "EcoGuardian.AI (AI x City Climate Action Hackathon 2025 (Global Covenant of Mayors), winner, Climate Week NYC) — Uses AI, GIS and remote sensing to detect land degradation in real time and produce risk maps and alerts for cities.",
+   "GeoSentinel AI (Vista Equity Global Hackathon, Peer Choice)"
+  ]
+ },
+ {
+  "name": "CBAM Evidence Agent",
+  "track": 1,
+  "sdgs": [
+   13,
+   9
+  ],
+  "basedOn": [
+   "Tese"
+  ],
+  "idea": "Collects electricity bills and production logs from a Thai exporter and keeps an EU-ready emissions report current.",
+  "twist": "Recalculates everything when Thailand's grid emission factor or EU rules change, listing which shipments are affected.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 169,
+  "sources": [
+   "Tese (G20 TechSprint 2024 (BIS & Banco Central do Brasil), winner, Brazil) — Builds ESG dashboards that streamline sustainability reporting for small and medium-sized enterprises."
+  ]
+ },
+ {
+  "name": "Harvest Credit Line",
+  "track": 1,
+  "sdgs": [
+   8,
+   2
+  ],
+  "basedOn": [
+   "Kaleidofin"
+  ],
+  "idea": "Adjusts working-capital credit limits for durian and longan buyers from mock trade data and harvest calendars.",
+  "twist": "Cuts exposure automatically when farm-gate prices crash or export borders close, and explains each change in plain Thai.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 170,
+  "sources": [
+   "Kaleidofin (G20 TechSprint 2024 (BIS & Banco Central do Brasil), winner, Brazil) — Provides data-driven credit assessment tools with predictive risk models to finance businesses through innovative debt structures at lower cost."
+  ]
+ },
+ {
+  "name": "เกรงใจ Collector",
+  "track": 1,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "Claimsio"
+  ],
+  "idea": "Runs polite soft-collection on overdue SME invoices via LINE and email, offering instalments before escalating.",
+  "twist": "Stays inside Thai debt-collection hours and wording rules, and softens tone when a debtor reports hardship.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 171,
+  "sources": [
+   "Claimsio (MAS Global FinTech Hackcelerator 2025, winner, Singapore FinTech Festival) — AI-native debt collection service for SMEs that replaces collection agencies with automated soft-collection workflows and factoring."
+  ]
+ },
+ {
+  "name": "Panic-Sell Guard",
+  "track": 1,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "Oxford Risk"
+  ],
+  "idea": "Detects panic behaviour in MariBank-style savers during market drops and sends personalised, rule-checked nudges.",
+  "twist": "Adapts its nudges to each saver's goals and pauses during bank-run rumours, escalating to human advisers.",
+  "score": [
+   3,
+   4,
+   4,
+   3
+  ],
+  "n": 172,
+  "sources": [
+   "Oxford Risk (MAS Global FinTech Hackcelerator 2025, winner, Singapore FinTech Festival) — Trains bank AI models on behavioural insights into investor decision-making to deliver hyper-personalised financial advice."
+  ]
+ },
+ {
+  "name": "Small-Cap Rumour Desk",
+  "track": 1,
+  "sdgs": [
+   16,
+   8
+  ],
+  "basedOn": [
+   "POLARLYST AI",
+   "TradeSageAI"
+  ],
+  "idea": "Monitors Thai small-cap stock news and filings and updates an analyst note when a claim appears in investor chats.",
+  "twist": "Checks LINE-group pump rumours against SET filings and flags likely manipulation instead of repeating hype.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 173,
+  "sources": [
+   "POLARLYST AI (SEC/TDRI/CMDF/FETCO Hackathon 'Transforming the Thai Capital Market' 2025, Thailand, 1st) — AI platform that automatically produces real-time analyst reports on small and mid-cap Thai stocks that lack analyst coverage.",
+   "TradeSageAI (Agent Development Kit Hackathon with Google Cloud 2025 (online), Honorable Mention #2) — Multi-agent financial analysis platform that evaluates trading hypotheses."
+  ]
+ },
+ {
+  "name": "รถจมน้ำ Claim Agent",
+  "track": 1,
+  "sdgs": [
+   13,
+   8
+  ],
+  "basedOn": [
+   "InsureScan",
+   "Kava"
+  ],
+  "idea": "Assesses flood-damaged cars from photos and water-line marks, pre-approving simple claims and flagging fraud.",
+  "twist": "Shifts to surge mode after big floods, triaging thousands of claims and catching photos reused from earlier disasters.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 174,
+  "sources": [
+   "InsureScan (Alibaba Cloud AI Hackathon Malaysia 2025, 1st) — AI that analyses claim documents and images to detect vehicle damage and assess claim validity, speeding up insurance claims and resisting fraud.",
+   "Kava (HackMIT 2025, Cambridge MA, EigenCloud Sponsor Prize track winner) — AI tool that generates complete insurance claims in minutes from uploaded documents and damage photos, inspired by the 2025 California wildfires."
+  ]
+ },
+ {
+  "name": "Phone Crack Fixer",
+  "track": 1,
+  "sdgs": [
+   8,
+   9
+  ],
+  "basedOn": [
+   "Agent Halo Agent Networks"
+  ],
+  "idea": "Coordinates insurer, repair shop and courier when a buyer cracks a phone bought with Shopee device protection.",
+  "twist": "Re-books another repair shop automatically when parts are out of stock, keeping the buyer's promised return date.",
+  "score": [
+   3,
+   4,
+   3,
+   4
+  ],
+  "n": 175,
+  "sources": [
+   "Agent Halo Agent Networks (Salesforce TDX 2025 Agentforce Hackathon, San Francisco, 1st place) — Agentforce agent network connecting insurers, repair shops and emergency responders to remove delays in the customer claims journey."
+  ]
+ }
+]

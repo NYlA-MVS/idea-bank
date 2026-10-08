@@ -1,0 +1,950 @@
+[
+ {
+  "name": "ตรวจเรียงความ · Thai essay grader",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Edu.AI"
+  ],
+  "idea": "Grades Thai secondary-school summaries and essays against the teacher's own rubric, quoting the rubric line behind every point given or lost.",
+  "twist": "Flags borderline scripts for teacher moderation and builds each student's remedial exercise from their actual errors.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "อ่านออกเขียนได้ Screener",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Dyscover"
+  ],
+  "idea": "Analyses Prathom 1–3 Thai handwriting and dictation for letter reversals, tone-mark and vowel-position errors that may signal dyslexia.",
+  "twist": "Drafts the learning-support section of an individual education plan (IEP) for the school's special-education coordinator to review.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "SAR Evidence Builder",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Apollo",
+   "Konveyor"
+  ],
+  "idea": "Compiles a school's annual Self-Assessment Report (SAR) from lesson plans, test results and activity records, organised by the school's quality standards.",
+  "twist": "Links every claim to a piece of evidence and flags unsupported claims before external quality assessors visit.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "ห้องเรียนคละชั้น · multi-grade planner",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "LENTERA"
+  ],
+  "idea": "An offline lesson server for small rural schools where one teacher covers several grades, mapped to Basic Education Core Curriculum indicators.",
+  "twist": "Plans a single lesson period in which each grade works on its own indicator at the same time.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ]
+ },
+ {
+  "name": "Graduation Audit for registrars",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "RaoChatHub"
+  ],
+  "idea": "Checks a university student's transcript against the programme's curriculum structure and tells the registrar whether they can graduate.",
+  "twist": "Explains missing credits and suggests which open courses next semester actually satisfy each unmet requirement.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "PLC Log & วPA Portfolio",
+  "track": 3,
+  "sdgs": [
+   4,
+   8
+  ],
+  "basedOn": [
+   "MeetMate"
+  ],
+  "idea": "Transcribes teachers' Professional Learning Community meetings into the PLC log format schools must keep and tallies hours per teacher.",
+  "twist": "Links PLC outcomes to each teacher's performance agreement (วPA) indicators so evidence is ready for academic-standing review.",
+  "score": [
+   3,
+   5,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "เซอร์เวย์ Copilot · motor claim surveyor",
+  "track": 3,
+  "sdgs": [
+   9,
+   16
+  ],
+  "basedOn": [
+   "InsureScan"
+  ],
+  "idea": "Guides a motor-insurance surveyor at a crash scene through photos, the claim form and fault notes for a voluntary policy claim.",
+  "twist": "Compares new damage photos with earlier claims on the same plate to flag reused or pre-existing damage.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "IPD Benefit Reasoner",
+  "track": 3,
+  "sdgs": [
+   3,
+   8
+  ],
+  "basedOn": [
+   "The Hammurabi"
+  ],
+  "idea": "Reads a Thai health policy's inpatient benefit schedule and a hospital bill, deciding line by line what is payable and why.",
+  "twist": "Asks clarifying questions about waiting periods or pre-existing conditions before concluding, then explains denials in plain Thai.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "Agent Needs-Analysis Checker",
+  "track": 3,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "ActuaViz"
+  ],
+  "idea": "Turns life-insurance policy wordings into structured benefits so an insurance agent can compare plans for a specific customer.",
+  "twist": "Generates the customer needs-analysis record and flags when the recommended plan does not match stated needs.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "อู่ในเครือ Estimate Auditor",
+  "track": 3,
+  "sdgs": [
+   9,
+   8
+  ],
+  "basedOn": [
+   "ClaimGuardian 360",
+   "Agent Halo Agent Networks"
+  ],
+  "idea": "Checks a partner garage's repair estimate line by line against damage photos, parts price lists and labour rates before insurer approval.",
+  "twist": "Questions repair-versus-replace choices and parts listed outside the damaged zone shown in photos.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "บิลค่าไฟ Dispute Desk",
+  "track": 3,
+  "sdgs": [
+   11,
+   9
+  ],
+  "basedOn": [
+   "Energy Agent AI"
+  ],
+  "idea": "Helps electricity-authority district office staff explain a disputed high bill using meter history, tariff type, Ft period and read status.",
+  "twist": "Detects estimated-read catch-ups and meter-reading transcription errors before sending a technician out.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Feeder Fault Locator",
+  "track": 3,
+  "sdgs": [
+   9,
+   11
+  ],
+  "basedOn": [
+   "Project LUCID"
+  ],
+  "idea": "Combines customer outage calls, recloser events and weather to estimate which section of a distribution feeder has faulted.",
+  "twist": "Drafts the switching order for the line crew following safety procedure but requires the duty engineer's approval.",
+  "score": [
+   4,
+   3,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "Designated Factory Energy Report",
+  "track": 3,
+  "sdgs": [
+   13,
+   9
+  ],
+  "basedOn": [
+   "WiseWatts"
+  ],
+  "idea": "Compiles a designated factory's meter data into the annual energy management report its energy manager must submit.",
+  "twist": "Checks claimed savings against measured data and drafts next year's measures with payback calculations.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Dangerous Goods Pre-Loading Check",
+  "track": 3,
+  "sdgs": [
+   9,
+   11
+  ],
+  "basedOn": [
+   "PLACI"
+  ],
+  "idea": "Checks truck and container loading plans at a port for dangerous-goods class segregation, placards and documents before loading.",
+  "twist": "Generates the emergency response card responders would need if that exact load spilled on the highway.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "1669 Dispatch Coder",
+  "track": 3,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "Triage",
+   "Rescue Master - Citizen Edition v2.0"
+  ],
+  "idea": "Guides an emergency medical dispatcher through Thai criteria-based dispatch questions to assign red, yellow or green priority.",
+  "twist": "Picks the right response unit level and gives the caller pre-arrival first-aid instructions in plain Thai.",
+  "score": [
+   5,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "ใบขนสินค้า Prep for customs brokers",
+  "track": 3,
+  "sdgs": [
+   9,
+   8
+  ],
+  "basedOn": [
+   "CAIRGO"
+  ],
+  "idea": "Reads emailed invoices, packing lists and bills of lading and drafts import declaration fields for a customs broker to verify.",
+  "twist": "Flags quantity, weight and value mismatches across the three documents before the declaration is lodged.",
+  "score": [
+   4,
+   4,
+   4,
+   5
+  ]
+ },
+ {
+  "name": "กรรมการตรวจรับ · works acceptance check",
+  "track": 3,
+  "sdgs": [
+   16,
+   11
+  ],
+  "basedOn": [
+   "SafeContractor"
+  ],
+  "idea": "Helps a local government's works inspection committee check each instalment claim against the BOQ, schedule and site photos.",
+  "twist": "Flags instalments claimed without photo evidence of hidden works, such as rebar before a concrete pour.",
+  "score": [
+   5,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "Annual Building Inspection Report",
+  "track": 3,
+  "sdgs": [
+   11
+  ],
+  "basedOn": [
+   "MaestrIA"
+  ],
+  "idea": "Drafts the annual safety inspection report for large or public buildings from a licensed inspector's checklist photos.",
+  "twist": "Tracks defects from last year's report and escalates unfixed fire-safety items first.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "จป. Lift Plan Check",
+  "track": 3,
+  "sdgs": [
+   8,
+   3
+  ],
+  "basedOn": [
+   "Lifting Risk Analysis"
+  ],
+  "idea": "Lets a construction safety officer check crane lift plans for load chart, radius and rigging, plus worker lifting postures in photos.",
+  "twist": "Generates the morning toolbox talk in Thai, Burmese and Khmer for that day's specific lifts.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Hotel Night Audit & TM.30",
+  "track": 3,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "Tax Aggregation Model"
+  ],
+  "idea": "Reconciles a small hotel's front-desk, POS and payment records each night and prepares foreign-guest residence notifications for immigration.",
+  "twist": "Spots room revenue without a matching guest registration, a common sign of leakage or unreported guests.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "SIM Ownership Desk",
+  "track": 3,
+  "sdgs": [
+   16
+  ],
+  "basedOn": [
+   "Pine AI"
+  ],
+  "idea": "Helps telecom shop staff verify identity for SIM registration and re-registration, explaining each document requirement to customers.",
+  "twist": "Flags walk-ins registering many numbers or numbers linked to scam reports for a second check.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "No-Signal Complaint Engineer",
+  "track": 3,
+  "sdgs": [
+   9
+  ],
+  "basedOn": [
+   "Empathos"
+  ],
+  "idea": "Maps customer 'no signal' complaints to nearby cell-site alarms and planned maintenance so contact-centre agents can give real causes.",
+  "twist": "Clusters complaints with no matching alarm to reveal silent site failures for the network operations centre.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Branch KYC Copilot",
+  "track": 3,
+  "sdgs": [
+   16,
+   8
+  ],
+  "basedOn": [
+   "BIPBIP (Branch Intelligence Platform)",
+   "Mule Observation Detection Engine"
+  ],
+  "idea": "Walks bank branch staff through customer due diligence when opening accounts, prompting for enhanced checks on mule red flags.",
+  "twist": "Notices signs of a coached customer, such as a companion answering, and drafts an internal suspicious-activity note.",
+  "score": [
+   5,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "ทวงถามถูกกฎ · lawful collections",
+  "track": 3,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "Claimsio"
+  ],
+  "idea": "Drafts collection scripts and letters for bank collection officers and checks contact timing and frequency against debt-collection rules.",
+  "twist": "Identifies borrowers likely eligible for restructuring and offers that path before escalating collection.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Farmer Group Credit Memo",
+  "track": 3,
+  "sdgs": [
+   2,
+   8
+  ],
+  "basedOn": [
+   "Kaleidofin"
+  ],
+  "idea": "Writes a credit memo for a farmer group loan from crop calendar, expected yield, market price and household cash flow.",
+  "twist": "Builds a repayment schedule aligned to harvest months instead of fixed monthly instalments.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Mis-selling Mystery Shopper",
+  "track": 3,
+  "sdgs": [
+   16,
+   8
+  ],
+  "basedOn": [
+   "Oxford Risk",
+   "Probe"
+  ],
+  "idea": "An adversary agent poses as an elderly depositor to test bank branch sales scripts for insurance sold as if it were a deposit.",
+  "twist": "A judge agent scores each conversation against suitability rules and shows compliance which script lines caused failures.",
+  "score": [
+   5,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "ภาษีที่ดิน Use Classifier",
+  "track": 3,
+  "sdgs": [
+   11,
+   16
+  ],
+  "basedOn": [
+   "TARA"
+  ],
+  "idea": "Classifies each land parcel's actual use from survey photos and documents for a local authority's land and building tax roll.",
+  "twist": "Flags vacant urban land dressed up as agriculture, such as sparse token planting, for re-inspection.",
+  "score": [
+   5,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "แผนพัฒนาท้องถิ่น Builder",
+  "track": 3,
+  "sdgs": [
+   11,
+   16
+  ],
+  "basedOn": [
+   "Polisense.AI"
+  ],
+  "idea": "Turns villagers' requests from community forums into a sub-district development plan with projects mapped to provincial strategy.",
+  "twist": "Checks each project against expected budget and flags requests that belong to another agency's mandate.",
+  "score": [
+   3,
+   4,
+   4,
+   3
+  ]
+ },
+ {
+  "name": "Child Protection Case Conference",
+  "track": 3,
+  "sdgs": [
+   16
+  ],
+  "basedOn": [
+   "Baan Oon Jai"
+  ],
+  "idea": "Organises a child-welfare case file into a risk assessment and service plan for the multidisciplinary team meeting.",
+  "twist": "Highlights conflicting statements between school, hospital and family reports for the social worker to resolve.",
+  "score": [
+   4,
+   4,
+   4,
+   3
+  ]
+ },
+ {
+  "name": "Fake Broker Ad Hunter",
+  "track": 3,
+  "sdgs": [
+   16,
+   8
+  ],
+  "basedOn": [
+   "Project Zeus"
+  ],
+  "idea": "Finds investment ads impersonating licensed Thai brokers or funds and builds timestamped evidence packs for the regulator.",
+  "twist": "A human-supervised honeybot replies to the ad to capture the bank accounts and LINE IDs used.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Money Trail Mapper",
+  "track": 3,
+  "sdgs": [
+   16
+  ],
+  "basedOn": [
+   "Mule Observation Detection Engine",
+   "Tax Aggregation Model"
+  ],
+  "idea": "Normalises bank statements from many banks into one schema and traces scam money through layers of mule accounts for an investigating officer.",
+  "twist": "Produces a court-ready fund-flow chart where every arrow links back to the source statement line.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "Thai Trademark Similarity Examiner",
+  "track": 3,
+  "sdgs": [
+   9,
+   16
+  ],
+  "basedOn": [
+   "Warhol"
+  ],
+  "idea": "Compares a new trademark application against registered marks visually and by Thai pronunciation, as a trademark examiner would.",
+  "twist": "Handles Thai-script look-alikes and sound-alikes that differ only by tone marks or vowel spelling.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "Burn Scar Verifier",
+  "track": 3,
+  "sdgs": [
+   13,
+   3
+  ],
+  "basedOn": [
+   "AgroSentinel",
+   "EcoGuardian.AI"
+  ],
+  "idea": "Matches satellite hotspots and burn scars with field reports to separate crop burning, forest fires and false alarms for a provincial office.",
+  "twist": "Prioritises patrol routes for forest-fire volunteers by smoke drift toward towns.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "EIA Measures Tracker",
+  "track": 3,
+  "sdgs": [
+   13,
+   11
+  ],
+  "basedOn": [
+   "Tese"
+  ],
+  "idea": "Checks a project's periodic environmental monitoring report against each mitigation measure promised in its approved EIA.",
+  "twist": "Lists measures with no reported data or results trending out of range, for the environmental reviewer.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "PIPO Vessel Inspector",
+  "track": 3,
+  "sdgs": [
+   2,
+   13
+  ],
+  "basedOn": [
+   "PLACI",
+   "Sixth Sense for Security Guards"
+  ],
+  "idea": "Helps Port-In Port-Out inspectors cross-check a fishing vessel's logbook catch against its VMS track and landing declaration.",
+  "twist": "Scores which arriving vessels to inspect first based on track anomalies and catch inconsistencies.",
+  "score": [
+   5,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "ปศุสัตว์ Outbreak Investigator",
+  "track": 3,
+  "sdgs": [
+   2,
+   3
+  ],
+  "basedOn": [
+   "AgroSentinel",
+   "veTriage"
+  ],
+  "idea": "Helps a district livestock officer investigate a suspected livestock disease outbreak by tracing animal movements and vector risk.",
+  "twist": "Draws the control and surveillance zones and drafts the movement-ban notice for the officer's approval.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Withdrawal Period Gate",
+  "track": 3,
+  "sdgs": [
+   2,
+   3
+  ],
+  "basedOn": [
+   "Field Advisor",
+   "veTriage"
+  ],
+  "idea": "Checks farm treatment records against each drug's withdrawal period before pigs or chickens are sent to slaughter.",
+  "twist": "Asks the farm vet by voice to confirm any treatment missing from the log before release.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "2Q·9Q·8Q Counsellor Copilot",
+  "track": 3,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "AegisAI",
+   "One MIND"
+  ],
+  "idea": "Helps a community-hospital nurse run Thai depression and suicide-risk screening, scoring it and routing per the local care pathway.",
+  "twist": "Listens for risk cues in the patient's own words that contradict a low questionnaire score.",
+  "score": [
+   5,
+   4,
+   5,
+   3
+  ]
+ },
+ {
+  "name": "Home Fall-Risk Assessor",
+  "track": 3,
+  "sdgs": [
+   3,
+   11
+  ],
+  "basedOn": [
+   "Welli",
+   "MaestrIA"
+  ],
+  "idea": "A caregiver photographs an older person's home; the tool flags fall hazards and proposes home modifications with costs.",
+  "twist": "Prepares the request to the local long-term care fund in the format the sub-district office expects.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "ถุงยาเยี่ยมบ้าน · home med reconciliation",
+  "track": 3,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "PillSnap"
+  ],
+  "idea": "A home-visit pharmacist photographs an older patient's bag of medicines; pills are identified and reconciled against hospital records.",
+  "twist": "Spots duplicate drugs from different hospitals and expired stock hoarded at home.",
+  "score": [
+   5,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Thai Braille Exam Transcriber",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "LUNA"
+  ],
+  "idea": "Converts school exam papers, including maths and Thai tone marks, into Thai braille for special-education centres.",
+  "twist": "Flags diagrams and tables that need tactile redrawing and writes alt descriptions for them.",
+  "score": [
+   4,
+   3,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "Accessible Building Auditor",
+  "track": 3,
+  "sdgs": [
+   11
+  ],
+  "basedOn": [
+   "Hanamo",
+   "Gemma Vision"
+  ],
+  "idea": "Checks photos and tape measurements of a public building's ramps, toilets and parking against Thai accessibility regulations.",
+  "twist": "Ranks fixes by cost and impact for the building owner and drafts the response to the complaint.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "ศูนย์ไกล่เกลี่ย Mediation Prep",
+  "track": 3,
+  "sdgs": [
+   16
+  ],
+  "basedOn": [
+   "Justi-Aid",
+   "Case Summary Workflow"
+  ],
+  "idea": "Prepares a court mediation file for consumer credit-card debt cases, summarising the claim, payments and realistic settlement options.",
+  "twist": "Gives the mediator side-by-side instalment scenarios the debtor can afford based on stated income.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "OPD Flow Twin",
+  "track": 3,
+  "sdgs": [
+   3,
+   9
+  ],
+  "basedOn": [
+   "HospiTwin"
+  ],
+  "idea": "Builds a digital twin of a provincial hospital's outpatient flow from queue timestamps to find where patients wait longest.",
+  "twist": "Tests fixes such as moving lab draws earlier before the hospital changes anything.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "ประกันสังคม Appeal Drafter",
+  "track": 3,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "PlainRights"
+  ],
+  "idea": "Explains a Social Security Office benefit rejection in plain Thai and drafts the worker's appeal with supporting documents.",
+  "twist": "Points out which missing medical or employment evidence most likely caused the rejection.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Labour Inspector Visit Pack",
+  "track": 3,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "MigrAssist"
+  ],
+  "idea": "Prepares a labour inspector's workplace visit from complaints, past violations and payroll samples, with an interview checklist.",
+  "twist": "Interviews migrant workers in their language and turns answers into the inspector's findings form.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "Alcohol Ad Checker",
+  "track": 3,
+  "sdgs": [
+   3,
+   16
+  ],
+  "basedOn": [
+   "Comply AI"
+  ],
+  "idea": "Checks bar and restaurant social-media posts against Thai alcohol advertising restrictions before they are published.",
+  "twist": "Explains which element is risky, such as drinking scenes or promotions, and suggests a compliant rewrite.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ]
+ },
+ {
+  "name": "ACTD Dossier Checker",
+  "track": 3,
+  "sdgs": [
+   3,
+   9
+  ],
+  "basedOn": [
+   "TrialIQ Agents"
+  ],
+  "idea": "Checks a generic drug registration dossier in ASEAN Common Technical Dossier format for missing or inconsistent parts before Thai FDA submission.",
+  "twist": "Cross-checks strengths, shelf life and manufacturer names across modules to catch reviewer queries early.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ]
+ },
+ {
+  "name": "ไตอาหาร · renal diet planner",
+  "track": 3,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "Healthfood Advisory"
+  ],
+  "idea": "Helps a hospital dietitian plan Thai meals for chronic kidney disease patients within potassium, phosphorus and protein targets.",
+  "twist": "Suggests swaps for everyday Thai dishes and street food rather than unfamiliar Western menus.",
+  "score": [
+   4,
+   4,
+   4,
+   3
+  ]
+ },
+ {
+  "name": "ปภ. Situation Report Builder",
+  "track": 3,
+  "sdgs": [
+   11,
+   13
+  ],
+  "basedOn": [
+   "D-MIND",
+   "MySelamat"
+  ],
+  "idea": "Merges district and village disaster reports into a provincial disaster office's standard situation report with affected-household counts.",
+  "twist": "Detects duplicate or conflicting counts across districts before figures go to the governor.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ]
+ }
+]

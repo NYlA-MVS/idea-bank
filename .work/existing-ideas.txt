@@ -1,0 +1,145 @@
+#1 [T1] ต่อราคา Agent · seller-side haggling — An agent negotiates with buyers in Shopee chat on the seller's behalf, bounded by price floor, margin and stock age.
+#2 [T2] รวมพลังโชห่วย · group buying for corner shops — Pools orders from neighbourhood grocery shops and negotiates wholesale prices with several suppliers at once.
+#3 [T1] StockSync Healer · stop overselling — Watches stock across Shopee, Lazada and TikTok Shop; diagnoses sync failures and pauses listings when unsure.
+#4 [T2] PackCheck · camera checks each parcel — A phone above the packing table checks the right item, colour and count before the parcel is sealed.
+#5 [T2] Money Leak Finder — Reconciles PromptPay slips, platform statements and courier bills to find money a shop is losing.
+#6 [T2] ตรงปก Guard · not-as-pictured check — Checks a listing's photos, title, size chart and claims against each other before it goes live.
+#7 [T1] Shopee Live Sync — Listens to a live stream and turns spoken promises ("฿50 off for the first 10") into vouchers within price-floor and stock limits.
+#8 [T1] OTOP Deals Machine · B2B buyer finder — An outbound agent finds hotels, cafés and gift shops for community producers and starts the conversation.
+#9 [T1] Mega Sale Autopilot · 11.11 / 12.12 — Runs a shop through a double-date sale: discounts, stock split, chat replies.
+#10 [T1] Return Autopilot with a risk budget — Approves returns alone within a daily budget and sends unusual cases to a person.
+#11 [T2] Agent-Ready Shop — Gets Shopee shops ready for buyers who shop through AI agents.
+#12 [T2] Thai Fit Advisor — Maps Thai, Chinese and EU sizes brand by brand so buyers pick the right size.
+#13 [T2] Shopee Video Studio — Turns a product photo into a short Thai video ad sized for Shopee Video.
+#14 [T2] OTOP Voice Listing — A voice note in a regional dialect plus a photo becomes a complete Shopee listing.
+#15 [T1] Review Reply Agent — Replies to reviews automatically when confident; angry or unclear reviews go to the seller.
+#16 [T2] 11.11 Inbox Triage — Sorts hundreds of chats by urgency during a mega sale and drafts replies from shop policy.
+#17 [T1] Price Guard · no race to the bottom — Reprices against competitors but refuses to go below margin.
+#18 [T1] Supplier Failover — When a supplier is late or out of stock, finds alternatives and drafts a purchase order.
+#19 [T1] Demand Weather Agent — Adjusts stock and promotions by province using rain, heat and festival forecasts.
+#20 [T1] Rainy Season Shop — Extends delivery promises and picks couriers by flood risk per area.
+#21 [T2] Cashflow Copilot — Warns a seller about cash gaps before mega sales and sizes the restock.
+#22 [T1] Sales-to-Credit — Offers credit based on shop sales history to sellers without payslips.
+#23 [T2] ภาษีแม่ค้า · seller tax agent — Works out personal income tax for online sellers and warns before the VAT threshold.
+#24 [T2] New Seller Coach — Sets up a new Shopee shop in the first week and runs the launch checklist.
+#25 [T2] อย. Compliance Checker — Flags banned health and beauty claims and checks the อย. number format.
+#26 [T1] Counterfeit Spotter — Flags likely counterfeit listings from logo and packaging differences.
+#27 [T2] Box Right · packaging optimiser — Picks the smallest box for each order to cut volumetric fees and waste.
+#28 [T1] Courier Weight Auditor — Compares declared weight with what couriers charge and files disputes.
+#29 [T2] Live Host Trainer — Simulated live-stream viewers ask tricky questions so new sellers can practise.
+#30 [T2] Farm Input Group Buy — Farmers pool fertiliser and seed orders to negotiate prices.
+#31 [T1] MeJOB+ · adaptive job hunter — Applies for jobs for new graduates and changes strategy after each rejection.
+#32 [T2] Gig Income Smoother — Forecasts income for riders and freelancers and moves savings automatically.
+#33 [T1] RiderShield — Protects delivery riders in heat, rain and floods and tracks daily income.
+#34 [T2] ช่างดี · repair copilot — Helps independent air-con, motorbike and phone technicians diagnose faults step by step.
+#35 [T2] Thai Interview Simulator — Simulates Thai job interviews built from real job posts.
+#36 [T2] ค่าแรงต้องได้ · unpaid wages helper — Migrant workers chat in their own language; the agent calculates wages owed under Thai law.
+#37 [T2] เสียงไทย · tone coach for migrant workers — Visualises Thai tones and coaches workplace phrases.
+#38 [T1] Factory Alert in Every Language — Turns factory emergency alerts into instant warnings for workers and neighbours.
+#39 [T1] Fair Shift Planner — Drafts several staff schedules and verifies each against labour law and fairness rules.
+#40 [T2] Payslip Law Check — Checks payslips against provincial minimum wage, OT and social security rules.
+#41 [T2] Trade Apprentice Simulator — Electrician and plumber apprentices practise on simulated faults.
+#42 [T2] ม.40 Enroller · social security for informal workers — Explains Section 40 options in plain Thai and helps informal workers enrol.
+#43 [T2] Disability Job Bridge — Matches people with disabilities to remote jobs and sets up assistive tools.
+#44 [T2] Silver Workforce — Matches retirees to part-time work that fits their health and schedule.
+#45 [T1] Work Injury Claim Builder — Records what happened at a workplace accident and builds a Workmen's Compensation Fund claim.
+#46 [T2] Micro-Internship Matcher — SMEs post small tasks; AI scopes them into paid micro-internships for graduates.
+#47 [T2] Street Food Cost Agent — Costs each dish against daily market prices and suggests menu prices.
+#48 [T1] Kitchen Load Agent — Pauses or slows ShopeeFood orders when a small kitchen is overloaded.
+#49 [T2] Rider Pay Audit — Recalculates rider pay from trip data and published rules to spot errors.
+#50 [T1] เสียงเครื่องบอกเหตุ · machine sound monitor — A phone next to a motor, pump or sewing machine learns its normal sound and warns before breakdown.
+#51 [T1] Night Watch for every soi — Citizen photos and reports find broken streetlights and drains, then route them to the district.
+#52 [T2] Small Warehouse Twin — A phone video of shelves becomes a stock map with slotting suggestions.
+#53 [T1] Self-Healing Shop Systems — Monitors a shop's website and POS, diagnoses failures and patches them.
+#54 [T1] Ransomware Guard for SMEs — Detects ransomware behaviour on shop PCs, isolates them and restores backups.
+#55 [T1] Spare Parts Finder — Finds substitute parts for small factories and drafts requests for quotes.
+#56 [T2] Old Manual to Live Guide — Turns old scanned machine manuals into an interactive troubleshooting guide.
+#57 [T2] SME Energy Optimiser — Shifts machine runs to off-peak electricity rates and sizes solar panels.
+#58 [T1] Cold Chain Guard — Watches temperature logs for fresh food and reroutes or discounts before spoilage.
+#59 [T1] Road Crack Reporter — Dashcam footage finds road damage and files reports automatically.
+#60 [T2] Village Water Leak Finder — Uses sound recordings along village water pipes to locate leaks.
+#61 [T1] PM2.5 Operations Agent — Adjusts outdoor work, deliveries and staff schedules by air quality.
+#62 [T2] Legacy Change Map for government — Maps how a change in a legacy government system affects other services.
+#63 [T2] Public API Doc Sync — Keeps public-service API docs in sync with the code.
+#64 [T1] Agent Security Scanner TH — Scans AI agents and tools used by Thai SMEs and agencies for security holes.
+#65 [T2] Technician Memory Handoff — Job context follows field technicians across shifts and devices.
+#66 [T1] Board Test Agent — Tests electronic boards for Thai electronics SMEs and writes the report.
+#67 [T2] Line QC in Minutes — Codex builds a dataset and defect detector for each product in minutes.
+#68 [T2] Tender Helper for SMEs — Helps small firms prepare e-GP bids correctly, one sub-agent per document.
+#69 [T1] Community Transport Re-planner — Re-plans songthaew and van routes from live demand.
+#70 [T1] Golden Hour · scam case in minutes — Sub-agents read slips and chats and build a complete police report and bank freeze request.
+#71 [T1] e-GP Watchdog — Watches public procurement daily for bid-rigging signs and inflated prices.
+#72 [T2] Hear Everyone · public hearings — People comment on draft laws by voice in their own dialect; AI groups the themes.
+#73 [T2] Stateless to Citizen — Shows stateless people which legal route to status fits them and prepares documents.
+#74 [T1] Voice Clone Guard for elders — Warns older people during calls that sound like a cloned relative.
+#75 [T1] Mule Account Detector — Finds mule-account patterns in wallet transaction graphs.
+#76 [T1] Fake Parcel SMS Shield — Checks parcel and refund messages against real tracking data.
+#77 [T2] Small Claims Copilot — Prepares a consumer case for court for buyers cheated online.
+#78 [T2] Thai Legal Q&A with verified citations — Answers legal questions for sellers and workers, citing statutes and rulings.
+#79 [T2] Thai Regulation Conflict Finder — Finds conflicts between ministerial rules and the acts above them.
+#80 [T2] Legal Aid Supervisor — Lawyers at legal aid clinics review and approve AI-drafted documents.
+#81 [T1] Seller Policy Stress Test — Simulates how a new platform or tax rule would affect thousands of small sellers.
+#82 [T2] Plain-Thai Government Forms — Describe what you need; get the right form, office and documents list.
+#83 [T1] Complaint Router — Routes citizen complaints to the right agency and chases deadlines.
+#84 [T2] อบต. Budget Explorer — Shows a local council's budget against results in plain Thai.
+#85 [T1] Asset Declaration Cross-Check — Compares officials' asset declarations across years for unexplained jumps.
+#86 [T1] Election Claim Checker — Checks claims made during election campaigns against sources.
+#87 [T2] Second Chance Agent — Helps people leaving prison with ID documents and job matching.
+#88 [T2] Safe Exit — Discreet help-seeking and evidence log for domestic violence survivors.
+#89 [T2] Land Title Dispute Helper — Organises documents and timelines for land disputes.
+#90 [T2] Report-a-Crime Translator — Tourists and migrant workers report crimes by voice in their language.
+#91 [T2] Accessible Court Assistant — Helps people with speech or hearing disabilities follow and take part in hearings.
+#92 [T1] Fair Flood Relief — Allocates relief supplies by need and spots duplicate claims.
+#93 [T1] Fintech Sandbox Agent — Tests new fintech products against Thai rules in a simulated market.
+#94 [T2] Procurement Price Benchmark — Compares government purchase prices with market prices on Shopee.
+#95 [T1] PDPA Auditor for SMEs — Scans a small business's data practices and fixes consent forms.
+#96 [T2] Temple Fund Ledger — Transparent ledger and reports for temple and community donations.
+#97 [T2] Youth Bill Explainer — Explains draft laws to young people and collects their feedback.
+#98 [T2] สิทธิ์ครบ · welfare benefits navigator — Finds every benefit a family qualifies for and fills in the forms.
+#99 [T1] Payout Account Guard — Verifies changes to a seller's payout bank account to stop account takeover.
+#100 [T2] Regulation-to-Code — Codex turns a new regulation into executable compliance checks with tests.
+#101 [T1] COD Prank Shield — Scores cash-on-delivery orders for fake or prank orders.
+#102 [T2] Diabetes-Friendly Food Ordering — Helps people with diabetes order food that fits their sugar targets.
+#103 [T1] Seller Dispute Evidence Pack — Builds a dispute file from the listing snapshot, chat and photos.
+#104 [T2] Community Tourism Revenue Agent — Plans visits to community tourism spots and routes spending to local families.
+#105 [T1] Walk-to-Work Safety — Safe walking routes for night-shift workers in industrial estates.
+#106 [T3] Severance & Labour Court Calculator — Calculates severance, notice pay and unused leave under the Labour Protection Act and drafts the labour court claim.
+#107 [T3] คำฟ้อง Checker · civil complaint pre-filing — Checks a civil complaint against Civil Procedure Code form rules, court jurisdiction and fees before e-filing.
+#108 [T3] ฎีกา Navigator · verified case law — Finds Thai Supreme Court rulings that match a fact pattern and summarises each holding.
+#109 [T3] Land Document Reader — Reads โฉนด, น.ส.3ก and ส.ป.ก. documents and explains what can legally be sold, mortgaged or inherited.
+#110 [T3] Consumer Case Filer — Prepares a consumer case under the Consumer Case Procedure Act, which allows oral filing without court fees.
+#111 [T3] HS Code Classifier for cross-border sellers — Classifies products into AHTN tariff codes and lists duties and permits for cross-border shipments.
+#112 [T3] e-Tax Invoice Validator — Validates e-Tax invoices against Revenue Department format rules before submission.
+#113 [T3] Withholding Tax Agent for freelancers — Tracks 50 ทวิ withholding certificates, reconciles tax withheld and prepares the annual return.
+#114 [T3] BOI Incentive Navigator — Checks which BOI promotion activities and incentives a small manufacturer qualifies for.
+#115 [T3] อสม. Copilot · village health volunteers — Guides village health volunteers through NCD screening with Thai protocols and books follow-ups.
+#116 [T3] Pharmacy Interaction Check — Checks drug interactions for Thai pharmacies, including herbal products such as ฟ้าทะลายโจร.
+#117 [T3] ICD-10-TM Coding Assistant — Suggests ICD-10-TM diagnosis and procedure codes from discharge summaries for NHSO claims.
+#118 [T3] UCEP & บัตรทอง Rights Navigator — Tells patients and families which emergency and Universal Coverage rights apply right now.
+#119 [T3] Dengue Early Warning — Predicts dengue hotspots by sub-district from cases, rainfall and temperature.
+#120 [T3] Rice Doctor — Diagnoses rice diseases and pests from photos and gives Rice Department recommendations.
+#121 [T3] Durian Export Gate — Checks a durian shipment against export rules: maturity (dry matter), GAP and packing-house registration, banned dyes.
+#122 [T3] Rubber Co-op Grader — Estimates latex dry rubber content and grades rubber sheets for cooperatives.
+#123 [T3] Shrimp Pond Agent — Reads pond water-quality logs and warns before oxygen or pH crashes.
+#124 [T3] GAP Paperwork Agent — Keeps farm records and prepares GAP certification documents.
+#125 [T3] Crop Disaster Claim — Prepares flood or drought damage claims for crop insurance and government compensation.
+#126 [T3] SME Month-End Close — Closes a small business's books monthly under TFRS for NPAEs and prepares the ภ.พ.30 VAT return.
+#127 [T3] Savings Co-op Auditor — Finds anomalies in savings cooperative loans and accounts.
+#128 [T3] พ.ร.บ. Motor Claim Assistant — Handles compulsory motor insurance claims after road accidents.
+#129 [T3] Gold Pawn Valuer — Values gold jewellery for pawn shops by baht weight, 96.5% purity and the day's association price.
+#130 [T3] Debt Clinic Navigator — Helps people in debt pick restructuring options such as the Bank of Thailand debt clinic.
+#131 [T3] มอก. Check for online products — Checks whether a product needs a mandatory Thai Industrial Standard (TIS) mark before it is listed.
+#132 [T3] Factory Permit Navigator — Guides small factories through the factory licence (รง.4) and environmental requirements.
+#133 [T3] Building Permit Checker — Checks house and shophouse plans against the Building Control Act before the อ.1 permit application.
+#134 [T3] House Wiring Inspector — Checks photos of house wiring against Thai electrical installation standards.
+#135 [T3] Solar Rooftop Paperwork — Prepares rooftop solar connection documents for MEA or PEA and sizes the system.
+#136 [T3] Fishing Crew Compliance — Checks fishing crew contracts, pay and rest hours against Thai fisheries labour rules.
+#137 [T3] Halal Export Prep — Prepares halal certification requirements for Thai food exporters.
+#138 [T3] Cosmetic Notification Filer — Checks ingredient lists against the ASEAN Cosmetic Directive annexes and prepares the Thai FDA notification.
+#139 [T3] Nutrition Label Builder — Builds Thai nutrition and GDA labels from a recipe, following Thai FDA notifications.
+#140 [T3] Thai Game Localisation Reviewer — Reviews Thai game text for tone, slang, register and cultural fit.
+#141 [T3] หนังสือราชการ Drafter — Drafts Thai official letters in the exact format of the government correspondence regulations (ระเบียบงานสารบรรณ).
+#142 [T3] Flood Compensation Calculator — Calculates disaster relief at the official rates and checks who is eligible.
+#143 [T3] Fair TOR Writer — Writes procurement terms of reference under the 2017 Procurement Act and flags specs that lock out bidders.
+#144 [T3] Thai Heritage Machines — Interactive 3D reconstructions of traditional Thai tools such as rice mills and looms for museums and schools.
+#145 [T3] Long-Term Care Planner — Builds long-term care plans for older people following the care-manager practice used in Thai LTC programmes.

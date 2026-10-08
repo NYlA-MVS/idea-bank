@@ -1,0 +1,347 @@
+[
+ {
+  "name": "ปศุสัตว์ Sentinel",
+  "track": 2,
+  "sdgs": [
+   2,
+   3
+  ],
+  "basedOn": [
+   "AgroSentinel"
+  ],
+  "idea": "Combines farmer photo reports, satellite data and weather to warn of livestock disease spread like lumpy skin.",
+  "twist": "Farmers report sick cattle by LINE photo; alerts go to the district livestock office with a risk map.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 236,
+  "sources": [
+   "AgroSentinel (4th FAO-CAAS Youth Hackathon on One Health 2025, 3rd prize (New Service Track)) — Satellite-guided early warning system combining remote sensing and AI to monitor antimicrobial resistance and zoonotic disease risk on farms."
+  ]
+ },
+ {
+  "name": "ทวงดีๆ",
+  "track": 2,
+  "sdgs": [
+   8
+  ],
+  "basedOn": [
+   "Claimsio"
+  ],
+  "idea": "An agent collects overdue credit from neighbourhood shops for small wholesalers with polite, staged LINE reminders.",
+  "twist": "Matches Thai credit culture, offering instalments or PromptPay QR instead of harsh collection.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 237,
+  "sources": [
+   "Claimsio (MAS Global FinTech Hackcelerator 2025, winner, Singapore FinTech Festival) — AI-native debt collection service for SMEs that replaces collection agencies with automated soft-collection workflows and factoring."
+  ]
+ },
+ {
+  "name": "Probe TH",
+  "track": 2,
+  "sdgs": [
+   9,
+   16
+  ],
+  "basedOn": [
+   "Probe"
+  ],
+  "idea": "An adversary agent poses as tricky Thai customers and a judge agent scores a bank's AI advisor on thousands of conversations.",
+  "twist": "Tests Thai-only risks like mixed Thai-English, regional slang and elders who misunderstand loan terms.",
+  "score": [
+   4,
+   4,
+   4,
+   5
+  ],
+  "n": 238,
+  "sources": [
+   "Probe (C:\\>DIR Global Agentic Regulator Hackathon 2026, 6th place, Cambridge UK) — Uses an adversary agent posing as customers and a judge agent to run thousands of test conversations against AI financial advice systems."
+  ]
+ },
+ {
+  "name": "Agent Wallet Mandate",
+  "track": 2,
+  "sdgs": [
+   9,
+   16
+  ],
+  "basedOn": [
+   "Legis Labs Agent Passport"
+  ],
+  "idea": "Users give their shopping agents a ShopeePay mandate with limits, and every agent payment is checked before execution.",
+  "twist": "Family mandates let parents cap a teen's game top-ups or an elder's purchases with clear Thai receipts.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ],
+  "n": 239,
+  "sources": [
+   "Legis Labs Agent Passport (C:\\>DIR Global Agentic Regulator Hackathon 2026, vouch.finance Award, Cambridge UK) — Agent passport that lets banks validate AI-agent payment authority before execution."
+  ]
+ },
+ {
+  "name": "Parcel Pre-Load Check",
+  "track": 2,
+  "sdgs": [
+   9,
+   11
+  ],
+  "basedOn": [
+   "PLACI"
+  ],
+  "idea": "Scans parcel declarations before loading and flags risky items like lithium batteries or banned goods.",
+  "twist": "Reads vague Thai item descriptions like 'ของใช้' against seller history to choose which parcels get inspected.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 240,
+  "sources": [
+   "PLACI (KaiTETHON 2026 (Kale Logistics Solutions), overall winner, Mumbai) — AI pre-loading cargo risk analyst that analyses advance cargo information to flag risks before loading."
+  ]
+ },
+ {
+  "name": "ลายมือบอก Dyslexia",
+  "track": 2,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Dyscover"
+  ],
+  "idea": "Screens handwriting samples for dyslexia signs and gives teachers tailored lesson plans.",
+  "twist": "Tuned for Thai script errors like tone-mark and vowel placement, which English dyslexia tools miss.",
+  "score": [
+   4,
+   4,
+   4,
+   3
+  ],
+  "n": 241,
+  "sources": [
+   "Dyscover (Wharton Hack-AI-thon 2025, 1st place AI for Education, Philadelphia) — Analyses handwriting samples to detect signs of dyslexia and generates tailored lesson plans for teachers via a GPT-4 chatbot."
+  ]
+ },
+ {
+  "name": "ไลฟ์ภาษามือ",
+  "track": 2,
+  "sdgs": [
+   4,
+   8
+  ],
+  "basedOn": [
+   "Signity",
+   "Silentalk"
+  ],
+  "idea": "Adds a Thai Sign Language avatar and live captions to Shopee Live so deaf buyers can follow and ask questions.",
+  "twist": "Deaf viewers can sign questions back to the host, translated into Thai text in the chat.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 242,
+  "sources": [
+   "Signity (Microsoft ASEAN AI for Accessibility Hackathon 2025, Champion (UTP regional), Malaysia) — AI sign language translation app that integrates into platforms like TikTok and Shopee for deaf and hard-of-hearing users.",
+   "Silentalk (Inter-University GenAI Hackathon for the SDGs 2025, Silver, Hong Kong) — AI sign language interpreter."
+  ]
+ },
+ {
+  "name": "ป่าชายเลน Watch",
+  "track": 2,
+  "sdgs": [
+   13,
+   11
+  ],
+  "basedOn": [
+   "EcoGuardian.AI"
+  ],
+  "idea": "Uses satellite images to detect coastal erosion and mangrove loss and alerts local councils with risk maps.",
+  "twist": "Ranks Thai coastal tambons by erosion speed and drafts the อบต. budget request with evidence.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 243,
+  "sources": [
+   "EcoGuardian.AI (AI x City Climate Action Hackathon 2025 (Global Covenant of Mayors), winner, Climate Week NYC) — Uses AI, GIS and remote sensing to detect land degradation in real time and produce risk maps and alerts for cities."
+  ]
+ },
+ {
+  "name": "TCAS Essay Coach",
+  "track": 2,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Edu.AI",
+   "ไอจารย์"
+  ],
+  "idea": "Grades Thai university admission essays and writing answers and builds a personal study plan and mock exams.",
+  "twist": "Follows Thai writing rubrics and gives rural students without tutors the same feedback loop.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 244,
+  "sources": [
+   "Edu.AI (Agent Development Kit Hackathon with Google Cloud 2025 (online), Latin America winner) — Multi-agent educational system for Brazil that evaluates essays, generates personalized study plans and creates interdisciplinary mock exams.",
+   "ไอจารย์ (AI Thailand Hackathon 2025 🇹🇭, commendation)"
+  ]
+ },
+ {
+  "name": "ประกันคุ้มไหม",
+  "track": 2,
+  "sdgs": [
+   3,
+   16
+  ],
+  "basedOn": [
+   "The Hammurabi",
+   "ActuaViz"
+  ],
+  "idea": "Reasons through a health insurance policy for a specific scenario and asks follow-up questions before saying covered or not.",
+  "twist": "Turns Thai policy PDFs into machine-readable rules so buyers compare plans on Shopee before buying.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 245,
+  "sources": [
+   "The Hammurabi (Stanford LLM x Law Hackathon Fall 2024, Best VC, Stanford) — AI platform that reasons through insurance contract logic to determine outcomes for specific scenarios, asking clarifying questions before concluding.",
+   "ActuaViz (MAS Global FinTech Hackcelerator 2025, winner, Singapore FinTech Festival) — Converts complex insurance product documents into machine-readable formats to automate product comparison, chatbot support and pricing simulation."
+  ]
+ },
+ {
+  "name": "ตรวจเรียงความ · Thai essay grader",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Edu.AI"
+  ],
+  "idea": "Grades Thai secondary-school summaries and essays against the teacher's own rubric, quoting the rubric line behind every point given or lost.",
+  "twist": "Flags borderline scripts for teacher moderation and builds each student's remedial exercise from their actual errors.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ],
+  "n": 246,
+  "sources": [
+   "Edu.AI (Agent Development Kit Hackathon with Google Cloud 2025 (online), Latin America winner) — Multi-agent educational system for Brazil that evaluates essays, generates personalized study plans and creates interdisciplinary mock exams."
+  ]
+ },
+ {
+  "name": "อ่านออกเขียนได้ Screener",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Dyscover"
+  ],
+  "idea": "Analyses Prathom 1–3 Thai handwriting and dictation for letter reversals, tone-mark and vowel-position errors that may signal dyslexia.",
+  "twist": "Drafts the learning-support section of an individual education plan (IEP) for the school's special-education coordinator to review.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ],
+  "n": 247,
+  "sources": [
+   "Dyscover (Wharton Hack-AI-thon 2025, 1st place AI for Education, Philadelphia) — Analyses handwriting samples to detect signs of dyslexia and generates tailored lesson plans for teachers via a GPT-4 chatbot."
+  ]
+ },
+ {
+  "name": "SAR Evidence Builder",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "Apollo",
+   "Konveyor"
+  ],
+  "idea": "Compiles a school's annual Self-Assessment Report (SAR) from lesson plans, test results and activity records, organised by the school's quality standards.",
+  "twist": "Links every claim to a piece of evidence and flags unsupported claims before external quality assessors visit.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 248,
+  "sources": [
+   "Apollo (Microsoft AI Agents Hackathon 2025 (virtual), Best C# Agent) — Deep research assistant that turns complex queries into comprehensive reports through multi-agent orchestration.",
+   "Konveyor (Microsoft AI Agents Hackathon 2025 (virtual), Best Python Agent) — Knowledge transfer agent that conveys organizational knowledge from where it resides to where it is needed."
+  ]
+ },
+ {
+  "name": "ห้องเรียนคละชั้น · multi-grade planner",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "LENTERA"
+  ],
+  "idea": "An offline lesson server for small rural schools where one teacher covers several grades, mapped to Basic Education Core Curriculum indicators.",
+  "twist": "Plans a single lesson period in which each grade works on its own indicator at the same time.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 249,
+  "sources": [
+   "LENTERA (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), Ollama Prize) — Offline educational microserver on affordable hardware for remote and disconnected rural regions."
+  ]
+ },
+ {
+  "name": "Graduation Audit for registrars",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "RaoChatHub"
+  ],
+  "idea": "Checks a university student's transcript against the programme's curriculum structure and tells the registrar whether they can graduate.",
+  "twist": "Explains missing credits and suggests which open courses next semester actually satisfy each unmet requirement.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ],
+  "n": 250,
+  "sources": [
+   "RaoChatHub (Super AI Engineer Season 5 (AI Innovator Track) 2025, Thailand, 1st (Eastern center)) — Chatbot platform that answers from real databases and uploaded documents, reads images with vision AI, and unifies Facebook, Instagram and LINE messages; deployed for 24/7 student Q&A at Burapha University."
+  ]
+ }
+]

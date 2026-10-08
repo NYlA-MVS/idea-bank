@@ -1,0 +1,295 @@
+#1 ต่อราคา Agent · seller-side haggling
+#2 รวมพลังโชห่วย · group buying for corner shops
+#3 StockSync Healer · stop overselling
+#4 PackCheck · camera checks each parcel
+#5 Money Leak Finder
+#6 ตรงปก Guard · not-as-pictured check
+#7 Shopee Live Sync
+#8 OTOP Deals Machine · B2B buyer finder
+#9 Mega Sale Autopilot · 11.11 / 12.12
+#10 Return Autopilot with a risk budget
+#11 Agent-Ready Shop
+#12 Thai Fit Advisor
+#13 Shopee Video Studio
+#14 OTOP Voice Listing
+#15 Review Reply Agent
+#16 11.11 Inbox Triage
+#17 Price Guard · no race to the bottom
+#18 Supplier Failover
+#19 Demand Weather Agent
+#20 Rainy Season Shop
+#21 Cashflow Copilot
+#22 Sales-to-Credit
+#23 ภาษีแม่ค้า · seller tax agent
+#24 New Seller Coach
+#25 อย. Compliance Checker
+#26 Counterfeit Spotter
+#27 Box Right · packaging optimiser
+#28 Courier Weight Auditor
+#29 Live Host Trainer
+#30 Farm Input Group Buy
+#31 MeJOB+ · adaptive job hunter
+#32 Gig Income Smoother
+#33 RiderShield
+#34 ช่างดี · repair copilot
+#35 Thai Interview Simulator
+#36 ค่าแรงต้องได้ · unpaid wages helper
+#37 เสียงไทย · tone coach for migrant workers
+#38 Factory Alert in Every Language
+#39 Fair Shift Planner
+#40 Payslip Law Check
+#41 Trade Apprentice Simulator
+#42 ม.40 Enroller · social security for informal workers
+#43 Disability Job Bridge
+#44 Silver Workforce
+#45 Work Injury Claim Builder
+#46 Micro-Internship Matcher
+#47 Street Food Cost Agent
+#48 Kitchen Load Agent
+#49 Rider Pay Audit
+#50 เสียงเครื่องบอกเหตุ · machine sound monitor
+#51 Night Watch for every soi
+#52 Small Warehouse Twin
+#53 Self-Healing Shop Systems
+#54 Ransomware Guard for SMEs
+#55 Spare Parts Finder
+#56 Old Manual to Live Guide
+#57 SME Energy Optimiser
+#58 Cold Chain Guard
+#59 Road Crack Reporter
+#60 Village Water Leak Finder
+#61 PM2.5 Operations Agent
+#62 Legacy Change Map for government
+#63 Public API Doc Sync
+#64 Agent Security Scanner TH
+#65 Technician Memory Handoff
+#66 Board Test Agent
+#67 Line QC in Minutes
+#68 Tender Helper for SMEs
+#69 Community Transport Re-planner
+#70 Golden Hour · scam case in minutes
+#71 e-GP Watchdog
+#72 Hear Everyone · public hearings
+#73 Stateless to Citizen
+#74 Voice Clone Guard for elders
+#75 Mule Account Detector
+#76 Fake Parcel SMS Shield
+#77 Small Claims Copilot
+#78 Thai Legal Q&A with verified citations
+#79 Thai Regulation Conflict Finder
+#80 Legal Aid Supervisor
+#81 Seller Policy Stress Test
+#82 Plain-Thai Government Forms
+#83 Complaint Router
+#84 อบต. Budget Explorer
+#85 Asset Declaration Cross-Check
+#86 Election Claim Checker
+#87 Second Chance Agent
+#88 Safe Exit
+#89 Land Title Dispute Helper
+#90 Report-a-Crime Translator
+#91 Accessible Court Assistant
+#92 Fair Flood Relief
+#93 Fintech Sandbox Agent
+#94 Procurement Price Benchmark
+#95 PDPA Auditor for SMEs
+#96 Temple Fund Ledger
+#97 Youth Bill Explainer
+#98 สิทธิ์ครบ · welfare benefits navigator
+#99 Payout Account Guard
+#100 Regulation-to-Code
+#101 COD Prank Shield
+#102 Diabetes-Friendly Food Ordering
+#103 Seller Dispute Evidence Pack
+#104 Community Tourism Revenue Agent
+#105 Walk-to-Work Safety
+#106 Severance & Labour Court Calculator
+#107 คำฟ้อง Checker · civil complaint pre-filing
+#108 ฎีกา Navigator · verified case law
+#109 Land Document Reader
+#110 Consumer Case Filer
+#111 HS Code Classifier for cross-border sellers
+#112 e-Tax Invoice Validator
+#113 Withholding Tax Agent for freelancers
+#114 BOI Incentive Navigator
+#115 อสม. Copilot · village health volunteers
+#116 Pharmacy Interaction Check
+#117 ICD-10-TM Coding Assistant
+#118 UCEP & บัตรทอง Rights Navigator
+#119 Dengue Early Warning
+#120 Rice Doctor
+#121 Durian Export Gate
+#122 Rubber Co-op Grader
+#123 Shrimp Pond Agent
+#124 GAP Paperwork Agent
+#125 Crop Disaster Claim
+#126 SME Month-End Close
+#127 Savings Co-op Auditor
+#128 พ.ร.บ. Motor Claim Assistant
+#129 Gold Pawn Valuer
+#130 Debt Clinic Navigator
+#131 มอก. Check for online products
+#132 Factory Permit Navigator
+#133 Building Permit Checker
+#134 House Wiring Inspector
+#135 Solar Rooftop Paperwork
+#136 Fishing Crew Compliance
+#137 Halal Export Prep
+#138 Cosmetic Notification Filer
+#139 Nutrition Label Builder
+#140 Thai Game Localisation Reviewer
+#141 หนังสือราชการ Drafter
+#142 Flood Compensation Calculator
+#143 Fair TOR Writer
+#144 Thai Heritage Machines
+#145 Long-Term Care Planner
+#146 Forwarder Inbox Agent
+#147 Port Shock Re-router
+#148 Pre-Load Parcel Scanner
+#149 น้ำมา Rescue Router
+#150 เขื่อนปล่อยน้ำ Alert
+#151 Highway Crash Triage
+#152 Songkran ER Balancer
+#153 Heat Watch for Elders
+#154 Rider Fall Detector
+#155 Scam Ad Honeybot
+#156 ShopeePay Agent Mandate
+#157 Thai Dialect Crash-Test
+#158 Garena Answer Gate
+#159 9.9 Incident Commander
+#160 Mega-Sale Cloud Right-Sizer
+#161 Flaky Checkout Healer
+#162 Rice Mill Maintenance Crew
+#163 Island Microgrid Agent
+#164 หมู่บ้าน Solar Swap
+#165 EV Rider Charge Planner
+#166 AWD Paddy Agent
+#167 ASF Farm Sentinel
+#168 Burn Scar Watch
+#169 CBAM Evidence Agent
+#170 Harvest Credit Line
+#171 เกรงใจ Collector
+#172 Panic-Sell Guard
+#173 Small-Cap Rumour Desk
+#174 รถจมน้ำ Claim Agent
+#175 Phone Crack Fixer
+#176 Flight Delay Auto-Payout
+#177 Reusable Box Loop
+#178 ยาครบ Pill Routine
+#179 ยายสั่งได้ Voice Shopper
+#180 Footpath Navigator
+#181 Deaf Rider Relay
+#182 Sorting Lift Coach
+#183 Adaptive Rider Academy
+#184 Condo Night Guard
+#185 Work Permit Watchdog
+#186 TCAS Answer Desk
+#187 Border School Tutor
+#188 Mock Exam Re-Planner
+#189 Diamond Budget Guard
+#190 RoV Boost Ring Finder
+#191 Toxic Voice Moderator
+#192 Live Claim Police
+#193 Photo Theft Hunter
+#194 ละคร Trend Autopilot
+#195 SME Grant Hunter
+#196 ไลฟ์ Claim Guard
+#197 ละครช้อป
+#198 CF Catcher
+#199 โทรสั่งได้
+#200 No-Menu Bank Line
+#201 ประชุมหมู่บ้าน Minutes
+#202 Dropout Radar
+#203 Discharge Diet Ordering
+#204 มือสอง Grader
+#205 ทุนหาเรา · grant matcher
+#206 น้ำมา Rescue Map
+#207 ดูแลใจ Care Match
+#208 โอนช้าๆ
+#209 7 วันอันตราย Triage
+#210 บิลลายมือ Order Desk
+#211 ป้าสั่งได้
+#212 ลอตเตอรี่ Eyes
+#213 ER Pre-Arrival
+#214 คอนโดจริงไหม
+#215 Free Fire Gamble Hunter
+#216 เพชรพอดี · kids top-up coach
+#217 ทริปคุ้ม Insurance
+#218 ถุงยา Reconciler
+#219 RoV Clip Finder
+#220 จอประสาทตา Screening Ops
+#221 ภาษีนำเข้า Shock Test
+#222 บอทไม่มั่ว
+#223 สูตรแม่ Keeper
+#224 เลขบัตรปลอม Test Data
+#225 พัสดุหาย Agent Network
+#226 งานทีละขั้น
+#227 พูดได้ Order
+#228 ห้องเรียนดอย
+#229 KidBright Blocks
+#230 ช่างราคาแฟร์
+#231 Carbon Slip for Exporters
+#232 สิทธิ์คนพิการ Filer
+#233 รูปโดนขโมย
+#234 OPD Twin
+#235 ไม่เผาอ้อย Advisor
+#236 ปศุสัตว์ Sentinel
+#237 ทวงดีๆ
+#238 Probe TH
+#239 Agent Wallet Mandate
+#240 Parcel Pre-Load Check
+#241 ลายมือบอก Dyslexia
+#242 ไลฟ์ภาษามือ
+#243 ป่าชายเลน Watch
+#244 TCAS Essay Coach
+#245 ประกันคุ้มไหม
+#246 ตรวจเรียงความ · Thai essay grader
+#247 อ่านออกเขียนได้ Screener
+#248 SAR Evidence Builder
+#249 ห้องเรียนคละชั้น · multi-grade planner
+#250 Graduation Audit for registrars
+#251 PLC Log & วPA Portfolio
+#252 เซอร์เวย์ Copilot · motor claim surveyor
+#253 IPD Benefit Reasoner
+#254 Agent Needs-Analysis Checker
+#255 อู่ในเครือ Estimate Auditor
+#256 บิลค่าไฟ Dispute Desk
+#257 Feeder Fault Locator
+#258 Designated Factory Energy Report
+#259 Dangerous Goods Pre-Loading Check
+#260 1669 Dispatch Coder
+#261 ใบขนสินค้า Prep for customs brokers
+#262 กรรมการตรวจรับ · works acceptance check
+#263 Annual Building Inspection Report
+#264 จป. Lift Plan Check
+#265 Hotel Night Audit & TM.30
+#266 SIM Ownership Desk
+#267 No-Signal Complaint Engineer
+#268 Branch KYC Copilot
+#269 ทวงถามถูกกฎ · lawful collections
+#270 Farmer Group Credit Memo
+#271 Mis-selling Mystery Shopper
+#272 ภาษีที่ดิน Use Classifier
+#273 แผนพัฒนาท้องถิ่น Builder
+#274 Child Protection Case Conference
+#275 Fake Broker Ad Hunter
+#276 Money Trail Mapper
+#277 Thai Trademark Similarity Examiner
+#278 Burn Scar Verifier
+#279 EIA Measures Tracker
+#280 PIPO Vessel Inspector
+#281 ปศุสัตว์ Outbreak Investigator
+#282 Withdrawal Period Gate
+#283 2Q·9Q·8Q Counsellor Copilot
+#284 Home Fall-Risk Assessor
+#285 ถุงยาเยี่ยมบ้าน · home med reconciliation
+#286 Thai Braille Exam Transcriber
+#287 Accessible Building Auditor
+#288 ศูนย์ไกล่เกลี่ย Mediation Prep
+#289 OPD Flow Twin
+#290 ประกันสังคม Appeal Drafter
+#291 Labour Inspector Visit Pack
+#292 Alcohol Ad Checker
+#293 ACTD Dossier Checker
+#294 ไตอาหาร · renal diet planner
+#295 ปภ. Situation Report Builder

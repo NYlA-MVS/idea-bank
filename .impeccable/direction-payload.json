@@ -1,0 +1,101 @@
+{
+  "title": "Choose the visual world for Idea Bank",
+  "question": "The roll assigned Market Price Card. Keep it, take an alternate, or re-roll.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "Market Price Card",
+      "kicker": "THE ROLL",
+      "lineage": "Thai market and shop price cards: fluorescent card stock, marker numerals",
+      "thesis": "Every idea wears its score like a price card at a ตลาดนัด stall: the number you read from across the aisle.",
+      "palette": ["#16181D", "#F6F7F3", "#F2E600", "#FF4FA3", "#2FD07A"],
+      "materials": ["fluorescent card stock", "thick marker numerals", "plain white shelf"],
+      "viewport": "Clean list shell (filters left, ideas right); each row ends in a fluorescent score card, card colour = track, marker-style /20 numeral.",
+      "risk": "Turns into a costume if marker type leaks beyond the score numerals and track cards.",
+      "raised": [
+        {"from": "japanese-high-density-web", "raise": "Compare view uses a strict hairline module grid so four ideas line up row by row."},
+        {"from": "notation-diagram-systems-star-atlas", "raise": "Score map encodes total score as dot diameter on a fixed ramp."},
+        {"from": "signals-instruments-split-flap-concourse", "raise": "Columns never move in compare and shortlist; only values change."},
+        {"from": "aww2-zoo-gardens-guide-map", "raise": "Flat unmodulated colour only: no gradients, glass or grain."}
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "TCAS Choice Slip",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "Thai university admission choice slips, ranked อันดับ 1–4",
+      "thesis": "Choosing a hackathon idea is ranking your อันดับ 1–4, the ritual every Thai student has done.",
+      "palette": ["#0F2A4A", "#FFFFFF", "#E8EEF6", "#D9342B"],
+      "materials": ["official form boxes", "ranked slots", "red stamp"],
+      "viewport": "List shell plus a persistent four-slot ranking tray; the shortlist is literally อันดับ 1–4.",
+      "risk": "Familiar official-form look; can read bureaucratic and close to the category standard."
+    },
+    {
+      "id": "japanese-high-density-web",
+      "label": "Dense Module Mosaic",
+      "verdict": "declined",
+      "lineage": "Japanese high-density portal sites",
+      "thesis": "Pack every idea into ruled modules with small red tabs.",
+      "palette": ["#FFFFFF", "#111111", "#D7261E", "#D9DCE0"],
+      "materials": ["hairline modules", "tiny gothic type"],
+      "viewport": "A mosaic of 145 boxed idea modules.",
+      "case": "Loses on audience: the team asked for nothing too dense.",
+      "kept": "Strict hairline module grid in the compare view.",
+      "risk": "Directly contradicts the 'too dense' constraint.",
+      "hero": "https://impeccable.style/worlds/cards/japanese-high-density-web-hero.webp"
+    },
+    {
+      "id": "notation-diagram-systems-star-atlas",
+      "label": "Star Atlas",
+      "verdict": "declined",
+      "lineage": "celestial star charts",
+      "thesis": "Ideas as stars, score as magnitude.",
+      "palette": ["#0E1A33", "#F4F1E8", "#E0A040", "#C8402F"],
+      "materials": ["navy chart", "magnitude dots"],
+      "viewport": "A night chart of 145 ideas.",
+      "case": "Strong for the score map only; the team does not identify with star charts.",
+      "kept": "Dot diameter as score in the score map.",
+      "risk": "Dark night chart hurts long Thai reading.",
+      "hero": "https://impeccable.style/worlds/cards/notation-diagram-systems-star-atlas-hero.webp"
+    },
+    {
+      "id": "signals-instruments-split-flap-concourse",
+      "label": "Split-Flap Board",
+      "verdict": "declined",
+      "lineage": "rail departure boards",
+      "thesis": "Ideas as ranked departures.",
+      "palette": ["#111111", "#FFFFFF", "#F0A020", "#B03030"],
+      "materials": ["flap cells", "steel frame"],
+      "viewport": "A departure board of ideas.",
+      "case": "Rows fit ranking but the world is foreign to the team and dark.",
+      "kept": "Fixed columns; only values change.",
+      "risk": "Costume of an instrument on a working screen.",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-split-flap-concourse-hero.webp"
+    },
+    {
+      "id": "aww2-zoo-gardens-guide-map",
+      "label": "Garden Guide Map",
+      "verdict": "declined",
+      "lineage": "zoo and garden guide maps",
+      "thesis": "Tracks as coloured lobes of land.",
+      "palette": ["#8ED462", "#F5F1E4", "#2C2E2A", "#FF705D"],
+      "materials": ["flat colour lobes"],
+      "viewport": "One lobe per track.",
+      "case": "Playful but obscures comparison; loses both axes.",
+      "kept": "Flat unmodulated colour discipline.",
+      "risk": "Decorative, which the team asked to avoid.",
+      "hero": "https://impeccable.style/worlds/cards/aww2-zoo-gardens-guide-map-hero.webp"
+    }
+  ],
+  "reroll": {"registers": ["safer", "bolder"]},
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A clean product dashboard: sidebar filters, card grid, side panel.",
+    "palette": ["#FFFFFF", "#111827", "#4F46E5"],
+    "materials": ["clean grid", "neutral cards"],
+    "viewport": "Sidebar, search bar, card grid, slide-over detail.",
+    "risk": "Looks like every SaaS template, which the team asked to avoid."
+  },
+  "steer": true
+}

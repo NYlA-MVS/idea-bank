@@ -1,0 +1,365 @@
+[
+ {
+  "name": "Flight Delay Auto-Payout",
+  "track": 1,
+  "sdgs": [
+   8,
+   9
+  ],
+  "basedOn": [
+   "The Hammurabi",
+   "AI Insurance Chatbot Platform (Team Rep Monkeys)"
+  ],
+  "idea": "Reasons through a travel policy and pays delay claims as soon as airport data shows a qualifying delay.",
+  "twist": "Handles rebooked flights and Don Mueang-to-Suvarnabhumi switches by recalculating eligibility before paying.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 176,
+  "sources": [
+   "The Hammurabi (Stanford LLM x Law Hackathon Fall 2024, Best VC, Stanford) — AI platform that reasons through insurance contract logic to determine outcomes for specific scenarios, asking clarifying questions before concluding.",
+   "AI Insurance Chatbot Platform (Team Rep Monkeys) (SingHacks 2025 (Ancileo x MSIG Conversational Insurance Challenge), Singapore, 3rd) — Agentic conversational travel-insurance system that extracts trip details from documents, supports voice purchase and recommends plans by destination and activity."
+  ]
+ },
+ {
+  "name": "Reusable Box Loop",
+  "track": 1,
+  "sdgs": [
+   13,
+   11
+  ],
+  "basedOn": [
+   "GoZero"
+  ],
+  "idea": "Schedules rider pickups of reusable ShopeeFood containers, batching returns into existing delivery routes.",
+  "twist": "Re-plans pickups when riders are scarce in rain, and rewards users with coins tied to Shopee games.",
+  "score": [
+   3,
+   4,
+   3,
+   4
+  ],
+  "n": 177,
+  "sources": [
+   "GoZero (Alibaba Cloud Indonesia GenAI Hackathon 2025 (with GoTo), Indonesia, 3rd) — Gamified tool that helps delivery users reduce packaging waste and guides recycling."
+  ]
+ },
+ {
+  "name": "ยาครบ Pill Routine",
+  "track": 1,
+  "sdgs": [
+   3,
+   11
+  ],
+  "basedOn": [
+   "PillSnap",
+   "PostVisit.ai"
+  ],
+  "idea": "Checks photos of an elder's pill organiser against the prescription and alerts family about missed or wrong doses.",
+  "twist": "Updates the plan automatically when a new hospital prescription slip is photographed, flagging drug changes for the pharmacist.",
+  "score": [
+   5,
+   4,
+   4,
+   4
+  ],
+  "n": 178,
+  "sources": [
+   "PillSnap (SGHackItRX 2025 (Pharmaceutical Society of Singapore), 1st Runner-up) — AI tool that detects and identifies multiple pills from one photo to help pharmacists with medication reconciliation.",
+   "PostVisit.ai (Anthropic Built with Opus 4.6 Claude Code Hackathon 2026 (virtual), 3rd place) — Explains medical diagnoses in plain language, analyzes visit notes and surfaces clinical evidence for patients between appointments."
+  ]
+ },
+ {
+  "name": "ยายสั่งได้ Voice Shopper",
+  "track": 1,
+  "sdgs": [
+   11,
+   8
+  ],
+  "basedOn": [
+   "Welli",
+   "Vite Vere Offline"
+  ],
+  "idea": "Lets an elder order groceries on Shopee by voice in Thai dialect, completing checkout within a family-set budget.",
+  "twist": "Picks safe substitutes when items run out and calls the family before anything over budget or unfamiliar ships.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 179,
+  "sources": [
+   "Welli (OutSystems AI Agent Hackathon 2025 (Japan & Korea), Enterprise 1st) — Voice-based AI life-support app for seniors who face digital access barriers.",
+   "Vite Vere Offline (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 2nd place) — Offline digital companion that turns images into simple read-aloud instructions to foster autonomy for people with cognitive disabilities."
+  ]
+ },
+ {
+  "name": "Footpath Navigator",
+  "track": 1,
+  "sdgs": [
+   11,
+   3
+  ],
+  "basedOn": [
+   "Hanamo",
+   "Gemma Vision"
+  ],
+  "idea": "Guides blind pedestrians along Bangkok footpaths with a chest phone camera and voice instructions.",
+  "twist": "Re-routes around street vendors, parked motorbikes and night markets that appear and vanish by time of day.",
+  "score": [
+   5,
+   3,
+   4,
+   3
+  ],
+  "n": 180,
+  "sources": [
+   "Hanamo (OutSystems AI Agent Hackathon 2025 (Japan & Korea), MVP Award) — Mobility safety support app for people with visual impairments.",
+   "Gemma Vision (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 1st place) — AI assistant for visually impaired people that processes chest-mounted phone camera visuals and responds to voice or controller commands."
+  ]
+ },
+ {
+  "name": "Deaf Rider Relay",
+  "track": 1,
+  "sdgs": [
+   8,
+   11
+  ],
+  "basedOn": [
+   "Signity",
+   "Silentalk"
+  ],
+  "idea": "Handles customer calls for deaf delivery riders, converting speech to text and sign and replying on their behalf.",
+  "twist": "Answers routine questions autonomously and switches to sign video for tricky ones, like a gated condo entry.",
+  "score": [
+   4,
+   3,
+   3,
+   4
+  ],
+  "n": 181,
+  "sources": [
+   "Signity (Microsoft ASEAN AI for Accessibility Hackathon 2025, Champion (UTP regional), Malaysia) — AI sign language translation app that integrates into platforms like TikTok and Shopee for deaf and hard-of-hearing users.",
+   "Silentalk (Inter-University GenAI Hackathon for the SDGs 2025, Silver, Hong Kong) — AI sign language interpreter."
+  ]
+ },
+ {
+  "name": "Sorting Lift Coach",
+  "track": 1,
+  "sdgs": [
+   3,
+   8
+  ],
+  "basedOn": [
+   "Lifting Risk Analysis"
+  ],
+  "idea": "Camera scores worker lifting posture at parcel sorting centres and rotates workers between stations when risk accumulates.",
+  "twist": "Changes rotation rules when peak volume hits during mega sales, so speed never overrides injury limits.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 182,
+  "sources": [
+   "Lifting Risk Analysis (Super AI Engineer: 5th National AI Exhibition 2025, Thailand, Best AI Innovation Award) — AI system that analyses the injury risk of improper postures when workers lift items."
+  ]
+ },
+ {
+  "name": "Adaptive Rider Academy",
+  "track": 1,
+  "sdgs": [
+   8,
+   3
+  ],
+  "basedOn": [
+   "Team Road Runners police training simulator"
+  ],
+  "idea": "Generates riding scenarios targeted at each rider's weak habits from mock telematics and tracks improvement.",
+  "twist": "Scenarios include Bangkok flash floods and motorbike U-turns, updating the curriculum after each real near-miss.",
+  "score": [
+   3,
+   4,
+   3,
+   4
+  ],
+  "n": 183,
+  "sources": [
+   "Team Road Runners police training simulator (HacX! Hack for Public Safety 2025 (HTX x Microsoft), Singapore, Horizon 1st + Overall Impact) — Driving and riding training simulator for Singapore Police with an AI scenario engine, weather simulation and physiological/behavioural feedback."
+  ]
+ },
+ {
+  "name": "Condo Night Guard",
+  "track": 1,
+  "sdgs": [
+   11,
+   16
+  ],
+  "basedOn": [
+   "Sixth Sense for Security Guards",
+   "Hawkwatch"
+  ],
+  "idea": "Watches condo CCTV, separating real threats from cats, riders and residents, and alerts the guard only when needed.",
+  "twist": "Adapts thresholds when lights fail or rain hits and logs delivery riders separately to cut false alarms.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 184,
+  "sources": [
+   "Sixth Sense for Security Guards (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 4th place) — Video monitoring system that uses Gemma 3n to distinguish genuine threats from benign events in real-time security footage.",
+   "Hawkwatch (TreeHacks 2025, Stanford, Grand Prize) — Intelligent video-surveillance system that monitors multiple streams and sends real-time alerts when crime or life-threatening events are detected."
+  ]
+ },
+ {
+  "name": "Work Permit Watchdog",
+  "track": 1,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "MigrAssist",
+   "HireCompass"
+  ],
+  "idea": "Tracks migrant workers' visa and work-permit expiry, prepares renewal documents and notifies employers in advance.",
+  "twist": "Re-checks every case when cabinet resolutions change rules for Myanmar, Lao and Cambodian workers, in their own languages.",
+  "score": [
+   5,
+   4,
+   4,
+   3
+  ],
+  "n": 185,
+  "sources": [
+   "MigrAssist (Inter-University GenAI Hackathon for the SDGs 2025, Gold, Hong Kong) — Chatbot that helps migrant workers in Hong Kong understand their rights, track legal changes and connect with NGOs.",
+   "HireCompass (Start Smart Hackathon Autumn 2025, shared 1st place, Estonia) — AI career tool that helps migrants and international students produce localized job applications and find employment."
+  ]
+ },
+ {
+  "name": "TCAS Answer Desk",
+  "track": 1,
+  "sdgs": [
+   4,
+   16
+  ],
+  "basedOn": [
+   "RaoChatHub"
+  ],
+  "idea": "Answers students' LINE and Facebook questions about university admission from official announcements and FAQs.",
+  "twist": "Detects when a TCAS round date or rule changes, re-indexes and marks stale answers instead of repeating them.",
+  "score": [
+   4,
+   5,
+   3,
+   4
+  ],
+  "n": 186,
+  "sources": [
+   "RaoChatHub (Super AI Engineer Season 5 (AI Innovator Track) 2025, Thailand, 1st (Eastern center)) — Chatbot platform that answers from real databases and uploaded documents, reads images with vision AI, and unifies Facebook, Instagram and LINE messages; deployed for 24/7 student Q&A at Burapha University."
+  ]
+ },
+ {
+  "name": "Border School Tutor",
+  "track": 1,
+  "sdgs": [
+   4,
+   11
+  ],
+  "basedOn": [
+   "LENTERA",
+   "Nexora-AI"
+  ],
+  "idea": "Runs an offline tutor on cheap hardware in border schools, syncing progress whenever internet returns.",
+  "twist": "Switches between Thai and Karen explanations per student and adapts lessons when connectivity drops for days.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 187,
+  "sources": [
+   "LENTERA (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), Ollama Prize) — Offline educational microserver on affordable hardware for remote and disconnected rural regions.",
+   "Nexora-AI (Agent Development Kit Hackathon with Google Cloud 2025 (online), EMEA winner) — Personalized education platform that teaches through interactive lessons with visuals, quizzes and AI support."
+  ]
+ },
+ {
+  "name": "Mock Exam Re-Planner",
+  "track": 1,
+  "sdgs": [
+   4,
+   8
+  ],
+  "basedOn": [
+   "Edu.AI",
+   "Dyscover"
+  ],
+  "idea": "Builds a study plan and mock exams for Thai university entrance tests and re-plans after every result.",
+  "twist": "Detects reading-difficulty signs in handwritten answers and adapts plans for students who may have dyslexia.",
+  "score": [
+   3,
+   4,
+   4,
+   4
+  ],
+  "n": 188,
+  "sources": [
+   "Edu.AI (Agent Development Kit Hackathon with Google Cloud 2025 (online), Latin America winner) — Multi-agent educational system for Brazil that evaluates essays, generates personalized study plans and creates interdisciplinary mock exams.",
+   "Dyscover (Wharton Hack-AI-thon 2025, 1st place AI for Education, Philadelphia) — Analyses handwriting samples to detect signs of dyslexia and generates tailored lesson plans for teachers via a GPT-4 chatbot."
+  ]
+ },
+ {
+  "name": "Diamond Budget Guard",
+  "track": 1,
+  "sdgs": [
+   4,
+   16
+  ],
+  "basedOn": [
+   "KancaKids"
+  ],
+  "idea": "A parent-set agent manages a child's Garena diamond top-up budget and explains spending as a story.",
+  "twist": "Adjusts to limited-time skin events and suspicious top-up links, pausing purchases and teaching why.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 189,
+  "sources": [
+   "KancaKids (BI x OJK Hackathon 2025, Indonesia, Student 2nd) — AI-powered gamified, story-based financial literacy platform for children and teens with dashboards for parents and educators."
+  ]
+ },
+ {
+  "name": "RoV Boost Ring Finder",
+  "track": 1,
+  "sdgs": [
+   16,
+   9
+  ],
+  "basedOn": [
+   "Mule Observation Detection Engine"
+  ],
+  "idea": "Analyses login and match graphs to find account-boosting and account-trading rings in mobile esports.",
+  "twist": "Adapts when rings rotate devices or VPNs, linking them to Facebook groups selling ranked accounts.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 190,
+  "sources": [
+   "Mule Observation Detection Engine (KrungsriUniVerse x KMITL Hackathon: Mule Hunt Challenge 2025, Thailand, 1st) — Detects mule bank accounts by analysing links between gambling and loan networks tied to account trading plus social data, to block risk networks at the source."
+  ]
+ }
+]

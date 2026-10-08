@@ -1,0 +1,348 @@
+[
+ {
+  "name": "น้ำมา Rescue Map",
+  "track": 2,
+  "sdgs": [
+   11,
+   13
+  ],
+  "basedOn": [
+   "MySelamat",
+   "D-MIND"
+  ],
+  "idea": "Reads flood help posts from Facebook and X, geolocates them and dispatches nearby volunteers with supplies.",
+  "twist": "Parses Thai posts with landmarks like 'ซอยหลังวัด' and lets ShopeeFood riders opt in as dry-route supply runners.",
+  "score": [
+   5,
+   3,
+   4,
+   4
+  ],
+  "n": 206,
+  "sources": [
+   "MySelamat (Great Malaysia AI Hackathon 2025, Champion) — AI flood-response system that combines real-time crowdsourced social media data with AI rescue route planning via Google Maps to coordinate rescuers, victims and authorities.",
+   "D-MIND (Super AI Engineer Season 5 2025, Thailand, AI Innovation Award) — Intelligent disaster monitoring and alert system built with AI."
+  ]
+ },
+ {
+  "name": "ดูแลใจ Care Match",
+  "track": 2,
+  "sdgs": [
+   3,
+   8
+  ],
+  "basedOn": [
+   "Baan Oon Jai"
+  ],
+  "idea": "Helps care managers match bed-bound elders with home caregivers by needs, skills, distance and family budget.",
+  "twist": "Reads Thai long-term-care assessment forms and plans weekly visits for village caregivers (CG) across a tambon.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 207,
+  "sources": [
+   "Baan Oon Jai (AFTERKLASS Business KAMP 2025: Youth for Good (KBank), Thailand, 1st) — AI that supports child-welfare officers in assessing and matching children with suitable adoptive or foster families."
+  ]
+ },
+ {
+  "name": "โอนช้าๆ",
+  "track": 2,
+  "sdgs": [
+   16
+  ],
+  "basedOn": [
+   "WaiJai"
+  ],
+  "idea": "Before an elder sends a large ShopeePay transfer, AI reads the context and asks a family member in LINE to confirm.",
+  "twist": "Recognises Thai scam scripts like fake DSI or parcel-customs calls and explains the risk in kind, plain language.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 208,
+  "sources": [
+   "WaiJai (AFTERKLASS Business KAMP 2025: Youth for Good (KBank), Thailand, 2nd) — AI platform that analyses scam risk across channels to protect elderly people and reassure their caregivers."
+  ]
+ },
+ {
+  "name": "7 วันอันตราย Triage",
+  "track": 2,
+  "sdgs": [
+   3,
+   11
+  ],
+  "basedOn": [
+   "Rescue Master - Citizen Edition v2.0"
+  ],
+  "idea": "Guides bystanders through triage and first aid at multi-victim road crashes until the ambulance arrives.",
+  "twist": "Built for Songkran and New Year crashes; streams triage tags and location to 1669 dispatchers.",
+  "score": [
+   4,
+   4,
+   3,
+   3
+  ],
+  "n": 209,
+  "sources": [
+   "Rescue Master - Citizen Edition v2.0 (Cloud Intelligence Rising: Taiwan Generative AI Application Hackathon 2025 (DIGITIMES x AWS), 1st) — Disaster app that guides untrained citizens through START triage and basic first aid during mass-casualty events."
+  ]
+ },
+ {
+  "name": "บิลลายมือ Order Desk",
+  "track": 2,
+  "sdgs": [
+   8,
+   9
+  ],
+  "basedOn": [
+   "CAIRGO"
+  ],
+  "idea": "Reads distributor orders from LINE photos of handwritten slips and voice notes and enters them into stock software.",
+  "twist": "Reads messy Thai handwriting with shop nicknames; staff only confirm uncertain lines.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 210,
+  "sources": [
+   "CAIRGO (Microsoft Agentic AI Hackathon 2025 (Microsoft Taiwan x MODA), Taiwan, 1st) — China Airlines cargo agent that reads emailed booking orders and Excel/PDF attachments and enters bookings into the system so staff only verify them."
+  ]
+ },
+ {
+  "name": "ป้าสั่งได้",
+  "track": 2,
+  "sdgs": [
+   3,
+   11
+  ],
+  "basedOn": [
+   "Welli"
+  ],
+  "idea": "Elders shop on Shopee by speaking; the agent picks products and asks a family member to approve payment.",
+  "twist": "Understands dialect and vague requests like 'ยาหม่องอันเดิม' by checking past orders.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 211,
+  "sources": [
+   "Welli (OutSystems AI Agent Hackathon 2025 (Japan & Korea), Enterprise 1st) — Voice-based AI life-support app for seniors who face digital access barriers."
+  ]
+ },
+ {
+  "name": "ลอตเตอรี่ Eyes",
+  "track": 2,
+  "sdgs": [
+   8,
+   11
+  ],
+  "basedOn": [
+   "Gemma Vision",
+   "Hanamo"
+  ],
+  "idea": "A chest-mounted phone helps blind lottery vendors move through markets and confirm cash and PromptPay payments by voice.",
+  "twist": "Identifies Thai banknotes and reads the payment confirmation screen aloud, so vendors can't be short-changed.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 212,
+  "sources": [
+   "Gemma Vision (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 1st place) — AI assistant for visually impaired people that processes chest-mounted phone camera visuals and responds to voice or controller commands.",
+   "Hanamo (OutSystems AI Agent Hackathon 2025 (Japan & Korea), MVP Award) — Mobility safety support app for people with visual impairments."
+  ]
+ },
+ {
+  "name": "ER Pre-Arrival",
+  "track": 2,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "Triage",
+   "Medtelligence"
+  ],
+  "idea": "Families describe symptoms by LINE on the way to a community hospital and the ER gets a triage level before arrival.",
+  "twist": "Uses the Thai MOPH ED triage levels and prepares a one-screen summary for the duty nurse.",
+  "score": [
+   4,
+   4,
+   4,
+   3
+  ],
+  "n": 213,
+  "sources": [
+   "Triage (MSIT AI Challenge & Hackathon 2025, Korea, Excellence Award) — Conversational AI agent service that predicts emergency patient needs and improves emergency-care management efficiency.",
+   "Medtelligence (Healthcare Hackathon Bavaria 2025, 3rd place, Munich) — Dashboard giving physicians a quick overview of relevant patient data via AI-supported filters plus automated advance information to save consultation time."
+  ]
+ },
+ {
+  "name": "คอนโดจริงไหม",
+  "track": 2,
+  "sdgs": [
+   11,
+   16
+  ],
+  "basedOn": [
+   "ASGI"
+  ],
+  "idea": "Checks Facebook condo rental posts for scam signs before a renter transfers a deposit.",
+  "twist": "Reverse-searches listing photos across groups and asks the building's juristic office to verify the unit.",
+  "score": [
+   4,
+   4,
+   3,
+   4
+  ],
+  "n": 214,
+  "sources": [
+   "ASGI (MSIT AI Challenge & Hackathon 2025, Korea, Hackathon Grand Prize) — Safe-contract service that detects jeonse (rental deposit) fraud risk using public data, AI and MCP."
+  ]
+ },
+ {
+  "name": "Free Fire Gamble Hunter",
+  "track": 2,
+  "sdgs": [
+   16
+  ],
+  "basedOn": [
+   "Mule Observation Detection Engine",
+   "Project Zeus"
+  ],
+  "idea": "Detects illegal gambling ads spread through game chats, clan names and livestreams and maps the network behind them.",
+  "twist": "Decodes Thai obfuscated spam like 'ส ล็ อ ต' and links it to accounts for Garena enforcement.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 215,
+  "sources": [
+   "Mule Observation Detection Engine (KrungsriUniVerse x KMITL Hackathon: Mule Hunt Challenge 2025, Thailand, 1st) — Detects mule bank accounts by analysing links between gambling and loan networks tied to account trading plus social data, to block risk networks at the source.",
+   "Project Zeus (C:\\>DIR Global Agentic Regulator Hackathon 2026, Honorary Award, Cambridge UK) — Human-governed multi-agent honeybot system that detects investment fraud ads and gathers enforcement evidence."
+  ]
+ },
+ {
+  "name": "เพชรพอดี · kids top-up coach",
+  "track": 2,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "KancaKids"
+  ],
+  "idea": "A story-based game teaches teens to budget their Garena top-ups and pocket money, with a parent dashboard.",
+  "twist": "Uses Free Fire diamond prices and real top-up history so lessons feel like the game, not a lecture.",
+  "score": [
+   4,
+   4,
+   3,
+   3
+  ],
+  "n": 216,
+  "sources": [
+   "KancaKids (BI x OJK Hackathon 2025, Indonesia, Student 2nd) — AI-powered gamified, story-based financial literacy platform for children and teens with dashboards for parents and educators."
+  ]
+ },
+ {
+  "name": "ทริปคุ้ม Insurance",
+  "track": 2,
+  "sdgs": [
+   3,
+   8
+  ],
+  "basedOn": [
+   "AI Insurance Chatbot Platform (Team Rep Monkeys)"
+  ],
+  "idea": "Reads flight and hotel booking screenshots and recommends travel cover that matches the actual trip activities.",
+  "twist": "Spots risky Thai trip activities like Koh Tao diving or Japan ski days and explains exclusions in plain Thai.",
+  "score": [
+   3,
+   4,
+   3,
+   4
+  ],
+  "n": 217,
+  "sources": [
+   "AI Insurance Chatbot Platform (Team Rep Monkeys) (SingHacks 2025 (Ancileo x MSIG Conversational Insurance Challenge), Singapore, 3rd) — Agentic conversational travel-insurance system that extracts trip details from documents, supports voice purchase and recommends plans by destination and activity."
+  ]
+ },
+ {
+  "name": "ถุงยา Reconciler",
+  "track": 2,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "PillSnap"
+  ],
+  "idea": "Photographs an elder's pills and drug bags from several hospitals and finds duplicates and dangerous combinations.",
+  "twist": "Reads Thai hospital drug labels, prepares a list for the village health volunteer and flags generics with different brand names.",
+  "score": [
+   5,
+   4,
+   4,
+   3
+  ],
+  "n": 218,
+  "sources": [
+   "PillSnap (SGHackItRX 2025 (Pharmaceutical Society of Singapore), 1st Runner-up) — AI tool that detects and identifies multiple pills from one photo to help pharmacists with medication reconciliation."
+  ]
+ },
+ {
+  "name": "RoV Clip Finder",
+  "track": 2,
+  "sdgs": [
+   8
+  ],
+  "basedOn": [
+   "OpenCubee"
+  ],
+  "idea": "Creators search Garena esports VODs in plain Thai, like 'clutch teamfight at baron', and get clip timestamps.",
+  "twist": "Understands Thai caster commentary and slang, then cuts ready-to-post vertical highlights for Thai creators.",
+  "score": [
+   3,
+   4,
+   3,
+   5
+  ],
+  "n": 219,
+  "sources": [
+   "OpenCubee (Ho Chi Minh City AI Challenge 2025, Vietnam, 1st (Division A)) — Virtual assistant system that retrieves videos and images from a large multimedia database using natural-language queries."
+  ]
+ },
+ {
+  "name": "จอประสาทตา Screening Ops",
+  "track": 2,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "Retinal Scan Tracking App"
+  ],
+  "idea": "Schedules diabetic eye screening rounds, reads retinal photos and routes urgent cases to provincial eye clinics.",
+  "twist": "Designed for รพ.สต. with one shared camera; plans which villages get screened each week.",
+  "score": [
+   4,
+   3,
+   4,
+   3
+  ],
+  "n": 220,
+  "sources": [
+   "Retinal Scan Tracking App (AI International Hackathon 2025 (SIT KMUTT), Thailand, 2nd) — AI application that uses eye-scanning technology."
+  ]
+ }
+]

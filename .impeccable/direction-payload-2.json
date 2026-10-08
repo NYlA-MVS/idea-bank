@@ -1,0 +1,128 @@
+{
+  "title": "Choose the visual world for Idea Bank",
+  "question": "Re-roll 1: the roll assigned Day-Colour Ribbons. Keep it, take an alternate, or re-roll again.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "Day-Colour Ribbons",
+      "kicker": "THE ROLL",
+      "lineage": "สีประจำวัน, the Thai seven-colour day system, and ผ้าเจ็ดสี ribbons",
+      "thesis": "Every Thai reader already decodes colour as identity; each idea wears a short ribbon of its track and SDG colours.",
+      "palette": ["#17181C", "#FAFAF7", "#D7263D", "#F2C200", "#F25C9A", "#2E9E5B", "#F28C28", "#2F6FDB", "#7A4FC9"],
+      "materials": ["satin ribbon bands", "white paper ground", "flat ink"],
+      "viewport": "Filters left, idea rows right; each row starts with a thin vertical ribbon of its track and SDG colours, score numerals in tabular figures at the end.",
+      "risk": "Seven colours can tip into rainbow noise; colour must stay on ribbons and chips only, never on surfaces.",
+      "raised": [
+        {"from": "notation-diagram-systems-orienteering-map", "raise": "One colour is reserved for 'shortlisted' and appears nowhere else."},
+        {"from": "ikeda-datamatics", "raise": "All scores in strict tabular figures, columns aligned across rows."},
+        {"from": "digital-design-canon-metro-typographic-tiles", "raise": "Selection is a colour fill, not added borders or button chrome."},
+        {"from": "rw-manual-acetate-tab-board", "raise": "Track filter rail shows each track's size proportionally."}
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "OMR Answer Sheet",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "Thai exam answer sheets: ฝนให้เต็มวง",
+      "thesis": "Scores read like filled answer bubbles: P, B, D, C each a row of five circles.",
+      "palette": ["#1B2A6B", "#FFFFFF", "#F3D9DC", "#C8323C", "#17181C"],
+      "materials": ["printed form ink", "filled pencil bubbles"],
+      "viewport": "List shell; each idea shows a 4×5 bubble grid for its scores; compare stacks the grids.",
+      "risk": "Familiar form look; can feel like school paperwork."
+    },
+    {
+      "id": "wayfinding-cartography-signage-terminal-yellow-wayfinding",
+      "label": "Airport Yellow Signage",
+      "verdict": "competitive",
+      "lineage": "airport wayfinding bands (Suvarnabhumi uses yellow and black too)",
+      "thesis": "Narrowing 145 ideas is a chain of decision points; each screen shows only the choices ahead.",
+      "palette": ["#FFC800", "#111111", "#FFFFFF", "#3A3A3A"],
+      "materials": ["yellow sign bands", "black humanist sans", "pictogram insets"],
+      "viewport": "A sticky yellow band shows the current decision (track, then shortlist, then compare); idea list below in black on white.",
+      "case": "Strong on product clarity for a decision tool; ties on audience identification.",
+      "risk": "Yellow-black band can read as an airport costume if used beyond the decision band.",
+      "hero": "https://impeccable.style/worlds/cards/wayfinding-cartography-signage-terminal-yellow-wayfinding-hero.webp"
+    },
+    {
+      "id": "vernacular-ephemera-boarding-pass-and-gate-board",
+      "label": "Boarding Pass & Gate Board",
+      "verdict": "competitive",
+      "lineage": "boarding passes and departure boards",
+      "thesis": "Ideas rerank in place like flights; the shortlist is your boarding pass.",
+      "palette": ["#F4F4F2", "#111111", "#E0442E", "#9AA0A6"],
+      "materials": ["segmented pass", "fixed-column board"],
+      "viewport": "Ranked board of ideas with fixed columns; shortlisted ideas collect as a segmented pass on the side.",
+      "case": "Rerank-in-place fits sorting and scoring; team identification is moderate.",
+      "risk": "Travel metaphor is borrowed, not the team's own world.",
+      "hero": "https://impeccable.style/worlds/cards/vernacular-ephemera-boarding-pass-and-gate-board-hero.webp"
+    },
+    {
+      "id": "ikeda-datamatics",
+      "label": "Datamatics Field",
+      "verdict": "declined",
+      "lineage": "data-sublime installations",
+      "thesis": "Ideas as barcode columns in pure black and white.",
+      "palette": ["#000000", "#FFFFFF"],
+      "materials": ["barcode bars", "monospace numerics"],
+      "viewport": "A strobing field of idea columns.",
+      "case": "Decorative and hard to read in Thai; loses both axes.",
+      "kept": "Strict tabular numerics.",
+      "risk": "Strobing and pure black are hostile to long reading.",
+      "hero": "https://impeccable.style/worlds/cards/ikeda-datamatics-hero.webp"
+    },
+    {
+      "id": "digital-design-canon-metro-typographic-tiles",
+      "label": "Metro Tiles",
+      "verdict": "declined",
+      "lineage": "Metro design language",
+      "thesis": "Giant cropped lowercase and flat tiles.",
+      "palette": ["#000000", "#00ABEC", "#E3008C", "#FFFFFF"],
+      "materials": ["flat tiles"],
+      "viewport": "Panorama of track tiles.",
+      "case": "Lowercase cropping does not exist in Thai script; loses audience.",
+      "kept": "Selection as colour fill, no chrome.",
+      "risk": "Dated and dark.",
+      "hero": "https://impeccable.style/worlds/cards/digital-design-canon-metro-typographic-tiles-hero.webp"
+    },
+    {
+      "id": "notation-diagram-systems-orienteering-map",
+      "label": "Orienteering Map",
+      "verdict": "declined",
+      "lineage": "ISOM orienteering maps",
+      "thesis": "Ideas as controls on a course.",
+      "palette": ["#FFFFFF", "#8DB33C", "#F5D547", "#9C27B0"],
+      "materials": ["contour texture"],
+      "viewport": "Course over terrain.",
+      "case": "Foreign to the team; clarity weak.",
+      "kept": "One reserved colour for the active path.",
+      "risk": "Map texture is decoration.",
+      "hero": "https://impeccable.style/worlds/cards/notation-diagram-systems-orienteering-map-hero.webp"
+    },
+    {
+      "id": "rw-manual-acetate-tab-board",
+      "label": "Acetate Tab Manual",
+      "verdict": "declined",
+      "lineage": "boxed-software manuals",
+      "thesis": "Tracks as divider boards with tabs.",
+      "palette": ["#E8641C", "#F2C200", "#2E9E5B", "#2F6FDB"],
+      "materials": ["acetate leaves", "tab rail"],
+      "viewport": "Tabbed manual of ideas.",
+      "case": "Rich but heavy; loses on clarity.",
+      "kept": "Track rail sized by count.",
+      "risk": "Material simulation is decorative.",
+      "hero": "https://impeccable.style/worlds/cards/rw-manual-acetate-tab-board-hero.webp"
+    }
+  ],
+  "reroll": {"registers": ["safer", "bolder"]},
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A clean product dashboard: sidebar filters, card grid, side panel.",
+    "palette": ["#FFFFFF", "#111827", "#4F46E5"],
+    "materials": ["clean grid", "neutral cards"],
+    "viewport": "Sidebar, search bar, card grid, slide-over detail.",
+    "risk": "Looks like every SaaS template, which the team asked to avoid."
+  },
+  "steer": true,
+  "followup": false
+}

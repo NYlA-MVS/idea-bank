@@ -1,0 +1,355 @@
+[
+ {
+  "name": "ปศุสัตว์ Outbreak Investigator",
+  "track": 3,
+  "sdgs": [
+   2,
+   3
+  ],
+  "basedOn": [
+   "AgroSentinel",
+   "veTriage"
+  ],
+  "idea": "Helps a district livestock officer investigate a suspected livestock disease outbreak by tracing animal movements and vector risk.",
+  "twist": "Draws the control and surveillance zones and drafts the movement-ban notice for the officer's approval.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 281,
+  "sources": [
+   "AgroSentinel (4th FAO-CAAS Youth Hackathon on One Health 2025, 3rd prize (New Service Track)) — Satellite-guided early warning system combining remote sensing and AI to monitor antimicrobial resistance and zoonotic disease risk on farms.",
+   "veTriage (OpenAI Build Week, 1st)"
+  ]
+ },
+ {
+  "name": "Withdrawal Period Gate",
+  "track": 3,
+  "sdgs": [
+   2,
+   3
+  ],
+  "basedOn": [
+   "Field Advisor",
+   "veTriage"
+  ],
+  "idea": "Checks farm treatment records against each drug's withdrawal period before pigs or chickens are sent to slaughter.",
+  "twist": "Asks the farm vet by voice to confirm any treatment missing from the log before release.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ],
+  "n": 282,
+  "sources": [
+   "Field Advisor (FAO Reboot the Earth Hackathon 2025, 2nd place, Rome) — Voice-powered RAG assistant giving farmers localized advice on crop selection, soil management and pest control for climate-resilient decisions.",
+   "veTriage (OpenAI Build Week, 1st)"
+  ]
+ },
+ {
+  "name": "2Q·9Q·8Q Counsellor Copilot",
+  "track": 3,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "AegisAI",
+   "One MIND"
+  ],
+  "idea": "Helps a community-hospital nurse run Thai depression and suicide-risk screening, scoring it and routing per the local care pathway.",
+  "twist": "Listens for risk cues in the patient's own words that contradict a low questionnaire score.",
+  "score": [
+   5,
+   4,
+   5,
+   3
+  ],
+  "n": 283,
+  "sources": [
+   "AegisAI (AFTERKLASS Business KAMP 2025: Youth for Good (KBank), Thailand, 3rd) — AI agent app that provides emotional support and stress relief for women facing daily hardship.",
+   "One MIND (ก.พ.ร. Public Sector AI Hackathon 🇹🇭, 2nd)"
+  ]
+ },
+ {
+  "name": "Home Fall-Risk Assessor",
+  "track": 3,
+  "sdgs": [
+   3,
+   11
+  ],
+  "basedOn": [
+   "Welli",
+   "MaestrIA"
+  ],
+  "idea": "A caregiver photographs an older person's home; the tool flags fall hazards and proposes home modifications with costs.",
+  "twist": "Prepares the request to the local long-term care fund in the format the sub-district office expects.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 284,
+  "sources": [
+   "Welli (OutSystems AI Agent Hackathon 2025 (Japan & Korea), Enterprise 1st) — Voice-based AI life-support app for seniors who face digital access barriers.",
+   "MaestrIA (Anthropic Built with Opus 4.7 Claude Code Hackathon 2026 (virtual), Keep Thinking Prize) — Home repair diagnostic tool that gives cost/time estimates and connects users with local skilled tradespeople."
+  ]
+ },
+ {
+  "name": "ถุงยาเยี่ยมบ้าน · home med reconciliation",
+  "track": 3,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "PillSnap"
+  ],
+  "idea": "A home-visit pharmacist photographs an older patient's bag of medicines; pills are identified and reconciled against hospital records.",
+  "twist": "Spots duplicate drugs from different hospitals and expired stock hoarded at home.",
+  "score": [
+   5,
+   4,
+   4,
+   4
+  ],
+  "n": 285,
+  "sources": [
+   "PillSnap (SGHackItRX 2025 (Pharmaceutical Society of Singapore), 1st Runner-up) — AI tool that detects and identifies multiple pills from one photo to help pharmacists with medication reconciliation."
+  ]
+ },
+ {
+  "name": "Thai Braille Exam Transcriber",
+  "track": 3,
+  "sdgs": [
+   4
+  ],
+  "basedOn": [
+   "LUNA"
+  ],
+  "idea": "Converts school exam papers, including maths and Thai tone marks, into Thai braille for special-education centres.",
+  "twist": "Flags diagrams and tables that need tactile redrawing and writes alt descriptions for them.",
+  "score": [
+   4,
+   3,
+   5,
+   4
+  ],
+  "n": 286,
+  "sources": [
+   "LUNA (MSIT AI Challenge & Hackathon 2025, Korea, Challenge Grand Prize) — AI-based braille translation solution for visually impaired users."
+  ]
+ },
+ {
+  "name": "Accessible Building Auditor",
+  "track": 3,
+  "sdgs": [
+   11
+  ],
+  "basedOn": [
+   "Hanamo",
+   "Gemma Vision"
+  ],
+  "idea": "Checks photos and tape measurements of a public building's ramps, toilets and parking against Thai accessibility regulations.",
+  "twist": "Ranks fixes by cost and impact for the building owner and drafts the response to the complaint.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 287,
+  "sources": [
+   "Hanamo (OutSystems AI Agent Hackathon 2025 (Japan & Korea), MVP Award) — Mobility safety support app for people with visual impairments.",
+   "Gemma Vision (Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 1st place) — AI assistant for visually impaired people that processes chest-mounted phone camera visuals and responds to voice or controller commands."
+  ]
+ },
+ {
+  "name": "ศูนย์ไกล่เกลี่ย Mediation Prep",
+  "track": 3,
+  "sdgs": [
+   16
+  ],
+  "basedOn": [
+   "Justi-Aid",
+   "Case Summary Workflow"
+  ],
+  "idea": "Prepares a court mediation file for consumer credit-card debt cases, summarising the claim, payments and realistic settlement options.",
+  "twist": "Gives the mediator side-by-side instalment scenarios the debtor can afford based on stated income.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 288,
+  "sources": [
+   "Justi-Aid (Legal Hackathon Cologne 2025, 1st place, Germany) — AI-supported software that simplifies judicial processes and makes them more transparent for citizens.",
+   "Case Summary Workflow (Oxford Legal Tech Hackathon 2026 (BRYTER & Reed Smith), 2nd place, Oxford) — Turns uploaded court judgments into fact summaries, opinion comparisons, procedural timelines and answers to specific legal questions."
+  ]
+ },
+ {
+  "name": "OPD Flow Twin",
+  "track": 3,
+  "sdgs": [
+   3,
+   9
+  ],
+  "basedOn": [
+   "HospiTwin"
+  ],
+  "idea": "Builds a digital twin of a provincial hospital's outpatient flow from queue timestamps to find where patients wait longest.",
+  "twist": "Tests fixes such as moving lab draws earlier before the hospital changes anything.",
+  "score": [
+   4,
+   3,
+   4,
+   4
+  ],
+  "n": 289,
+  "sources": [
+   "HospiTwin (MIT Hacking Medicine 2025, InterSystems Best Use of GenAI in Healthcare prize, Boston) — Digital twin of an emergency department floor that identifies the bottlenecks causing long patient wait times."
+  ]
+ },
+ {
+  "name": "ประกันสังคม Appeal Drafter",
+  "track": 3,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "PlainRights"
+  ],
+  "idea": "Explains a Social Security Office benefit rejection in plain Thai and drafts the worker's appeal with supporting documents.",
+  "twist": "Points out which missing medical or employment evidence most likely caused the rejection.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 290,
+  "sources": [
+   "PlainRights (University of Auckland Legal Tech Hackathon 2025, 1st place, New Zealand) — Privacy-focused AI legal assistant that translates welfare-system legal documents into plain language and gives real-time guidance on users' rights."
+  ]
+ },
+ {
+  "name": "Labour Inspector Visit Pack",
+  "track": 3,
+  "sdgs": [
+   8,
+   16
+  ],
+  "basedOn": [
+   "MigrAssist"
+  ],
+  "idea": "Prepares a labour inspector's workplace visit from complaints, past violations and payroll samples, with an interview checklist.",
+  "twist": "Interviews migrant workers in their language and turns answers into the inspector's findings form.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 291,
+  "sources": [
+   "MigrAssist (Inter-University GenAI Hackathon for the SDGs 2025, Gold, Hong Kong) — Chatbot that helps migrant workers in Hong Kong understand their rights, track legal changes and connect with NGOs."
+  ]
+ },
+ {
+  "name": "Alcohol Ad Checker",
+  "track": 3,
+  "sdgs": [
+   3,
+   16
+  ],
+  "basedOn": [
+   "Comply AI"
+  ],
+  "idea": "Checks bar and restaurant social-media posts against Thai alcohol advertising restrictions before they are published.",
+  "twist": "Explains which element is risky, such as drinking scenes or promotions, and suggests a compliant rewrite.",
+  "score": [
+   4,
+   5,
+   4,
+   4
+  ],
+  "n": 292,
+  "sources": [
+   "Comply AI (Stanford LLM x Law Hackathon Fall 2024, Best First Build, Stanford) — Uses reasoning agents to check videos and digital communications against region-specific regulations, cutting compliance review from weeks to hours."
+  ]
+ },
+ {
+  "name": "ACTD Dossier Checker",
+  "track": 3,
+  "sdgs": [
+   3,
+   9
+  ],
+  "basedOn": [
+   "TrialIQ Agents"
+  ],
+  "idea": "Checks a generic drug registration dossier in ASEAN Common Technical Dossier format for missing or inconsistent parts before Thai FDA submission.",
+  "twist": "Cross-checks strengths, shelf life and manufacturer names across modules to catch reviewer queries early.",
+  "score": [
+   4,
+   4,
+   5,
+   4
+  ],
+  "n": 293,
+  "sources": [
+   "TrialIQ Agents (UiPath AgentHack 2025 (global, online), Grand Prize Agent of the Future) — Multi-agent clinical regulatory intelligence system aimed at accelerating drug approvals."
+  ]
+ },
+ {
+  "name": "ไตอาหาร · renal diet planner",
+  "track": 3,
+  "sdgs": [
+   3
+  ],
+  "basedOn": [
+   "Healthfood Advisory"
+  ],
+  "idea": "Helps a hospital dietitian plan Thai meals for chronic kidney disease patients within potassium, phosphorus and protein targets.",
+  "twist": "Suggests swaps for everyday Thai dishes and street food rather than unfamiliar Western menus.",
+  "score": [
+   4,
+   4,
+   4,
+   3
+  ],
+  "n": 294,
+  "sources": [
+   "Healthfood Advisory (Alibaba Cloud Indonesia GenAI Hackathon 2025 (with GoTo), Indonesia, 2nd) — AI assistant inside GoFood that recommends healthy meals based on a user's dietary preferences and health goals."
+  ]
+ },
+ {
+  "name": "ปภ. Situation Report Builder",
+  "track": 3,
+  "sdgs": [
+   11,
+   13
+  ],
+  "basedOn": [
+   "D-MIND",
+   "MySelamat"
+  ],
+  "idea": "Merges district and village disaster reports into a provincial disaster office's standard situation report with affected-household counts.",
+  "twist": "Detects duplicate or conflicting counts across districts before figures go to the governor.",
+  "score": [
+   4,
+   4,
+   4,
+   4
+  ],
+  "n": 295,
+  "sources": [
+   "D-MIND (Super AI Engineer Season 5 2025, Thailand, AI Innovation Award) — Intelligent disaster monitoring and alert system built with AI.",
+   "MySelamat (Great Malaysia AI Hackathon 2025, Champion) — AI flood-response system that combines real-time crowdsourced social media data with AI rescue route planning via Google Maps to coordinate rescuers, victims and authorities."
+  ]
+ }
+]

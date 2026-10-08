@@ -1,0 +1,59 @@
+TurnDeal | Sea × OpenAI Taiwan, 1st
+長照 Agent | Sea × OpenAI Taiwan, 3rd
+StoryWorld | Sea × OpenAI Singapore, 1st
+veTriage | OpenAI Build Week, 1st
+Pulse | OpenAI Build Week, 2nd
+Second Voice | OpenAI Build Week, 1st
+Dấu | OpenAI Build Week, 2nd
+Echo Canvas | OpenAI Build Week, 1st
+Sentinel (MCP) | OpenAI Build Week, 2nd
+OpenCortex | OpenAI Codex Hackathon, 1st
+Yolodex | OpenAI Codex Hackathon winner
+CardioTwin | OpenAI Codex Hackathon project
+Detextit | OpenAI Codex Hackathon project
+hyperreasoning | JetBrains × Codex, 1st
+Scopecreep | JetBrains × Codex, 2nd
+mesh-code | JetBrains × Codex, 3rd
+TALOS | AI Agent Olympics Milan
+SentinelOS | AI Agent Olympics Milan
+RackVision | AI Agent Olympics Milan
+Deals Machine | AI Agent Olympics, champion
+ContextGuard | AI Agent Olympics, runner-up
+OnboardEase | lablab Complete AI Hackathon, 1st
+VendorGuard | Microsoft Agent Academy, 1st
+Frugalia | MCP & AI Agents Hackathon
+Self-Healing Loop | Google I/O Hackathon
+Sentinel Ensemble | Qwen Global AI Hackathon, top 10
+oncall | Agent Harness Hackathon
+GraphDev | GitLab AI Hackathon, Anthropic grand prize
+DocSync | GitLab AI Hackathon, runner-up
+CrossBeam | Anthropic Built with Opus 4.6, 1st
+Medkit | Anthropic Built with Opus 4.7, 1st
+Wrench Board | Anthropic Built with Opus 4.7, 2nd
+Consistency Check | Hack the Law Cambridge, 1st
+Quinn | Hack the Law Cambridge, 3rd
+Team Phoenix | Global Agentic Regulator Hackathon, winner
+Rwanda Anti-Scam | Global Agentic Regulator Hackathon, winner
+VeriClaims AI | SuperAI NEXT 2026 winner
+Bloom | SuperAI NEXT 2026 winner
+AI.Here | SuperAI NEXT 2026 winner
+Night Watch | CDG Hackathon 2026 🇹🇭, 1st
+WalkWise | BDI Hackathon 2026 🇹🇭, 1st
+PA-TUEAN | BDI Hackathon 2026 🇹🇭, 2nd
+PAIMOO | BDI Hackathon 2026 🇹🇭, 3rd
+Thai Audio Intelligence | AI Thailand Hackathon 2025 🇹🇭, 1st
+หวานน้อย | AI Thailand Hackathon 2025 🇹🇭, 2nd
+DAMZ | AI Thailand Hackathon 2025 🇹🇭, 3rd
+MeJOB | AI Thailand Hackathon 2025 🇹🇭, commendation
+ไอจารย์ | AI Thailand Hackathon 2025 🇹🇭, commendation
+Mechanica | OpenAI Build Week, 1st
+PIT Chat | ก.พ.ร. Public Sector AI Hackathon 🇹🇭, 1st
+One MIND | ก.พ.ร. Public Sector AI Hackathon 🇹🇭, 2nd
+HR RAG My Jobs | ก.พ.ร. Public Sector AI Hackathon 🇹🇭, 3rd
+Generation Thailand | Generation Thailand × อว. AI Hackathon 🇹🇭
+eGov.GPT | AI & Digital Bridge Awards 2026
+iCoop Mekong | UNDP Youth Climate Challenge Vietnam, 1st
+Pieces of Them | Univ. of Utah Codex Hackathon, 1st
+Innovapptive | Vista Equity Agentic AI Hackathon, Best Agent
+GeoSentinel AI | Vista Equity Global Hackathon, Peer Choice
+Route Optimization Agent | NVIDIA NeMo Agent Toolkit Hackathon

@@ -1,0 +1,634 @@
+{
+ "TurnDeal": {
+  "event": "Sea × OpenAI Taiwan, 1st",
+  "url": "https://www.ctee.com.tw/news/20260915700898-430503"
+ },
+ "長照 Agent": {
+  "event": "Sea × OpenAI Taiwan, 3rd",
+  "url": "https://www.ctee.com.tw/news/20260915700898-430503"
+ },
+ "StoryWorld": {
+  "event": "OpenAI Codex Hackathon Singapore (Feb 2026), 1st",
+  "url": "https://x.com/romainhuet/status/2028586504407470503"
+ },
+ "veTriage": {
+  "event": "OpenAI Build Week, 1st",
+  "url": "https://developers.openai.com/blog/build-week-winners"
+ },
+ "Pulse": {
+  "event": "OpenAI Build Week, 2nd",
+  "url": "https://developers.openai.com/blog/build-week-winners"
+ },
+ "Second Voice": {
+  "event": "OpenAI Build Week, 1st",
+  "url": "https://developers.openai.com/blog/build-week-winners"
+ },
+ "Dấu": {
+  "event": "OpenAI Build Week, 2nd",
+  "url": "https://developers.openai.com/blog/build-week-winners"
+ },
+ "Echo Canvas": {
+  "event": "OpenAI Build Week, 1st",
+  "url": "https://developers.openai.com/blog/build-week-winners"
+ },
+ "Sentinel (MCP)": {
+  "event": "OpenAI Build Week, 2nd",
+  "url": "https://developers.openai.com/blog/build-week-winners"
+ },
+ "OpenCortex": {
+  "event": "OpenAI Codex Hackathon, 1st",
+  "url": "https://x.com/OpenAIDevs/status/2019902197199434190"
+ },
+ "Yolodex": {
+  "event": "OpenAI Codex Hackathon winner",
+  "url": "https://www.createwith.com/tool/chatgpt/updates/openai-hackathon-winners-create-yolodex"
+ },
+ "CardioTwin": {
+  "event": "OpenAI Codex Hackathon project",
+  "url": "https://cerebralvalley.ai/e/openai-codex-hackathon/hackathon/gallery"
+ },
+ "Detextit": {
+  "event": "OpenAI Codex Hackathon project",
+  "url": "https://cerebralvalley.ai/e/openai-codex-hackathon/hackathon/gallery"
+ },
+ "hyperreasoning": {
+  "event": "JetBrains × Codex, 1st",
+  "url": "https://blog.jetbrains.com/ai/2026/05/meet-the-finalists-jetbrains-codex-hackathon/"
+ },
+ "Scopecreep": {
+  "event": "JetBrains × Codex, 2nd",
+  "url": "https://blog.jetbrains.com/ai/2026/05/meet-the-finalists-jetbrains-codex-hackathon/"
+ },
+ "mesh-code": {
+  "event": "JetBrains × Codex, 3rd",
+  "url": "https://blog.jetbrains.com/ai/2026/05/meet-the-finalists-jetbrains-codex-hackathon/"
+ },
+ "TALOS": {
+  "event": "AI Agent Olympics Milan",
+  "url": "https://lablab.ai/ai-hackathons/milan-ai-week-hackathon"
+ },
+ "SentinelOS": {
+  "event": "AI Agent Olympics Milan",
+  "url": "https://lablab.ai/ai-hackathons/milan-ai-week-hackathon"
+ },
+ "RackVision": {
+  "event": "AI Agent Olympics Milan",
+  "url": "https://lablab.ai/ai-hackathons/milan-ai-week-hackathon"
+ },
+ "Deals Machine": {
+  "event": "AI Agent Olympics, champion",
+  "url": "https://lablab.ai/ai-articles/complete-ai-hackathon-summary"
+ },
+ "ContextGuard": {
+  "event": "AI Agent Olympics, runner-up",
+  "url": "https://lablab.ai/ai-articles/complete-ai-hackathon-summary"
+ },
+ "OnboardEase": {
+  "event": "lablab Complete AI Hackathon, 1st",
+  "url": "https://lablab.ai/ai-articles/complete-ai-hackathon-summary"
+ },
+ "VendorGuard": {
+  "event": "Microsoft Agent Academy, 1st",
+  "url": "https://devblogs.microsoft.com/powerplatform/agent-academy-hackathon-winners/"
+ },
+ "Frugalia": {
+  "event": "MCP & AI Agents Hackathon",
+  "url": "https://www.solo.io/blog/celebrating-the-winners-of-the-2026-hackathon-for-mcp-ai-agents"
+ },
+ "Self-Healing Loop": {
+  "event": "Google I/O Hackathon",
+  "url": "https://cerebralvalley.ai/e/google-io-hackathon/hackathon/gallery/43"
+ },
+ "Sentinel Ensemble": {
+  "event": "Qwen Global AI Hackathon, top 10",
+  "url": "https://github.com/3sk1nt4n/Sentinel-Ensemble-Qwen"
+ },
+ "oncall": {
+  "event": "Agent Harness Hackathon",
+  "url": "https://x.com/WeMakeDevs/status/2098065522458022141"
+ },
+ "GraphDev": {
+  "event": "GitLab AI Hackathon, Anthropic grand prize",
+  "url": "https://about.gitlab.com/blog/gitlab-ai-hackathon-2026-meet-the-winners/"
+ },
+ "DocSync": {
+  "event": "GitLab AI Hackathon, runner-up",
+  "url": "https://about.gitlab.com/blog/gitlab-ai-hackathon-2026-meet-the-winners/"
+ },
+ "CrossBeam": {
+  "event": "Anthropic Built with Opus 4.6, 1st",
+  "url": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon"
+ },
+ "Medkit": {
+  "event": "Anthropic Built with Opus 4.7, 1st",
+  "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon"
+ },
+ "Wrench Board": {
+  "event": "Anthropic Built with Opus 4.7, 2nd",
+  "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon"
+ },
+ "Consistency Check": {
+  "event": "Hack the Law Cambridge, 1st",
+  "url": "https://hackthelaw-cambridge.com/hackathon-2026/"
+ },
+ "Quinn": {
+  "event": "Hack the Law Cambridge, 3rd",
+  "url": "https://hackthelaw-cambridge.com/hackathon-2026/"
+ },
+ "Team Phoenix": {
+  "event": "Global Agentic Regulator Hackathon, winner",
+  "url": "https://www.globalgovernmentfinance.com/global-agentic-regulator-hackathon-sebi-ai-enabled-regulation/"
+ },
+ "Rwanda Anti-Scam": {
+  "event": "Global Agentic Regulator Hackathon, winner",
+  "url": "https://www.globalgovernmentfinance.com/global-agentic-regulator-hackathon-sebi-ai-enabled-regulation/"
+ },
+ "VeriClaims AI": {
+  "event": "SuperAI NEXT 2026 winner",
+  "url": "https://www.superai.com/next-hackathon"
+ },
+ "Bloom": {
+  "event": "SuperAI NEXT 2026 winner",
+  "url": "https://www.superai.com/next-hackathon"
+ },
+ "AI.Here": {
+  "event": "SuperAI NEXT 2026 winner",
+  "url": "https://www.superai.com/next-hackathon"
+ },
+ "Night Watch": {
+  "event": "CDG Hackathon 2026 🇹🇭, 1st",
+  "url": "https://mgronline.com/business/detail/9690000088612"
+ },
+ "WalkWise": {
+  "event": "BDI Hackathon 2026 🇹🇭, 1st",
+  "url": "https://www.techhub.in.th/bdi-hackathon-2026-open-at-bangkok/"
+ },
+ "PA-TUEAN": {
+  "event": "BDI Hackathon 2026 🇹🇭, 2nd",
+  "url": "https://www.techhub.in.th/bdi-hackathon-2026-open-at-bangkok/"
+ },
+ "PAIMOO": {
+  "event": "BDI Hackathon 2026 🇹🇭, 3rd",
+  "url": "https://www.techhub.in.th/bdi-hackathon-2026-open-at-bangkok/"
+ },
+ "Thai Audio Intelligence": {
+  "event": "AI Thailand Hackathon 2025 🇹🇭, 1st",
+  "url": "https://www.ai.in.th/en/hackathon2025-result/"
+ },
+ "หวานน้อย": {
+  "event": "AI Thailand Hackathon 2025 🇹🇭, 2nd",
+  "url": "https://www.ai.in.th/en/hackathon2025-result/"
+ },
+ "DAMZ": {
+  "event": "AI Thailand Hackathon 2025 🇹🇭, 3rd",
+  "url": "https://www.ai.in.th/en/hackathon2025-result/"
+ },
+ "MeJOB": {
+  "event": "AI Thailand Hackathon 2025 🇹🇭, commendation",
+  "url": "https://www.ai.in.th/en/hackathon2025-result/"
+ },
+ "ไอจารย์": {
+  "event": "AI Thailand Hackathon 2025 🇹🇭, commendation",
+  "url": "https://www.ai.in.th/en/hackathon2025-result/"
+ },
+ "Mechanica": {
+  "event": "OpenAI Build Week, 1st",
+  "url": "https://developers.openai.com/blog/build-week-winners"
+ },
+ "PIT Chat": {
+  "event": "ก.พ.ร. Public Sector AI Hackathon 🇹🇭, 1st",
+  "url": "https://techsauce.co/news/ai-hackathon-public-sector-innovation-thailand"
+ },
+ "One MIND": {
+  "event": "ก.พ.ร. Public Sector AI Hackathon 🇹🇭, 2nd",
+  "url": "https://techsauce.co/news/ai-hackathon-public-sector-innovation-thailand"
+ },
+ "HR RAG My Jobs": {
+  "event": "ก.พ.ร. Public Sector AI Hackathon 🇹🇭, 3rd",
+  "url": "https://techsauce.co/news/ai-hackathon-public-sector-innovation-thailand"
+ },
+ "Generation Thailand": {
+  "event": "Generation Thailand × อว. AI Hackathon 🇹🇭",
+  "url": "https://bangkok-today.com/"
+ },
+ "eGov.GPT": {
+  "event": "AI & Digital Bridge Awards 2026",
+  "url": "https://qazinform.com/news/higgsfield-ai-egovgpt-among-ai-digital-bridge-awards-2026-winners-9b49dd/amp"
+ },
+ "iCoop Mekong": {
+  "event": "UNDP Youth Climate Challenge Vietnam, 1st",
+  "url": "https://www.undp.org/vietnam/press-releases/ai-farming-and-aquaculture-solutions-top-youth-climate-hackathon"
+ },
+ "Pieces of Them": {
+  "event": "Univ. of Utah Codex Hackathon, 1st",
+  "url": "https://ai.utah.edu/blog/posts/2026/build_with_ai_hackathon-1.php"
+ },
+ "Innovapptive": {
+  "event": "Vista Equity Agentic AI Hackathon, Best Agent",
+  "url": "https://www.vistaequitypartners.com/news/vista-equity-partners-names-winners-of-agentic-ai-hackathons/"
+ },
+ "GeoSentinel AI": {
+  "event": "Vista Equity Global Hackathon, Peer Choice",
+  "url": "https://www.vistaequitypartners.com/news/vista-equity-partners-names-winners-of-agentic-ai-hackathons/"
+ },
+ "Route Optimization Agent": {
+  "event": "NVIDIA NeMo Agent Toolkit Hackathon",
+  "url": "https://developer.nvidia.com/blog/hackathon-winners-bring-agentic-ai-to-life-with-the-nvidia-nemo-agent-toolkit/"
+ },
+ "CAIRGO": {
+  "event": "Microsoft Agentic AI Hackathon 2025 (Microsoft Taiwan x MODA), Taiwan, 1st",
+  "url": "https://www.ithome.com.tw/pr/173281"
+ },
+ "RiskWise": {
+  "event": "Microsoft AI Agents Hackathon 2025 (virtual), Best Overall",
+  "url": "https://microsoft.github.io/AI_Agents_Hackathon/winners/"
+ },
+ "TARIFFED!": {
+  "event": "Microsoft AI Agents Hackathon 2025 (virtual), Best Use of Azure AI Agent Service",
+  "url": "https://microsoft.github.io/AI_Agents_Hackathon/winners/"
+ },
+ "PLACI": {
+  "event": "KaiTETHON 2026 (Kale Logistics Solutions), overall winner, Mumbai",
+  "url": "https://cargoforwarder.eu/2026/02/15/ai-hackathon-in-india-hosted-by-kale-logistics-solutions/"
+ },
+ "MySelamat": {
+  "event": "Great Malaysia AI Hackathon 2025, Champion",
+  "url": "https://eduadvisor.my/articles/apu-win-great-ai-hackathon-2025"
+ },
+ "D-MIND": {
+  "event": "Super AI Engineer Season 5 2025, Thailand, AI Innovation Award",
+  "url": "https://eit.ssru.ac.th/en/news/view/68-11-05-22"
+ },
+ "Rescue Master - Citizen Edition v2.0": {
+  "event": "Cloud Intelligence Rising: Taiwan Generative AI Application Hackathon 2025 (DIGITIMES x AWS), 1st",
+  "url": "https://www.fcu.edu.tw/en/news/2025042804/"
+ },
+ "Triage": {
+  "event": "MSIT AI Challenge & Hackathon 2025, Korea, Excellence Award",
+  "url": "https://newsseoul.co.kr/news/view/1065601804287587"
+ },
+ "HospiTwin": {
+  "event": "MIT Hacking Medicine 2025, InterSystems Best Use of GenAI in Healthcare prize, Boston",
+  "url": "https://bioethics.hms.harvard.edu/news/mbe-students-win-2025-mit-hacking-medicine-hospitwin-project"
+ },
+ "Aegis": {
+  "event": "AI.DEAS for Impact 2025, Philippines, Champion + Most Promising Prototype",
+  "url": "https://thepost.net.ph/news/campus/up-cebu-students-win-at-ai-deas-for-impact-2025/"
+ },
+ "GoGuard": {
+  "event": "Alibaba Cloud Indonesia GenAI Hackathon 2025 (with GoTo), Indonesia, 1st",
+  "url": "https://www.alibabacloud.com/blog/building-real-solutions-how-indonesias-developers-tackled-ai-innovation_602280"
+ },
+ "Project Zeus": {
+  "event": "C:\\>DIR Global Agentic Regulator Hackathon 2026, Honorary Award, Cambridge UK",
+  "url": "https://www.cdir.global/cdir-hackathon-2026-winners"
+ },
+ "Legis Labs Agent Passport": {
+  "event": "C:\\>DIR Global Agentic Regulator Hackathon 2026, vouch.finance Award, Cambridge UK",
+  "url": "https://insurance-edge.net/2026/10/01/team-pheonix-wins-agentic-regulator-hackathon/"
+ },
+ "Team Axiom": {
+  "event": "C:\\>DIR Global Agentic Regulator Hackathon 2026, 4th place, Cambridge UK",
+  "url": "https://www.cdir.global/cdir-hackathon-2026-winners"
+ },
+ "Probe": {
+  "event": "C:\\>DIR Global Agentic Regulator Hackathon 2026, 6th place, Cambridge UK",
+  "url": "https://www.cdir.global/cdir-hackathon-2026-winners"
+ },
+ "Agent Reliability Profile": {
+  "event": "C:\\>DIR Global Agentic Regulator Hackathon 2026, 5th place, Cambridge UK",
+  "url": "https://www.cdir.global/cdir-hackathon-2026-winners"
+ },
+ "ModelProof: Sentinel AI Chat": {
+  "event": "Microsoft AI Agents Hackathon 2025 (virtual), Best JavaScript/TypeScript Agent",
+  "url": "https://microsoft.github.io/AI_Agents_Hackathon/winners/"
+ },
+ "WorkWizee": {
+  "event": "Microsoft AI Agents Hackathon 2025 (virtual), Best Copilot Agent",
+  "url": "https://microsoft.github.io/AI_Agents_Hackathon/winners/"
+ },
+ "GreenOps": {
+  "event": "Agent Development Kit Hackathon with Google Cloud 2025 (online), Asia Pacific winner",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights"
+ },
+ "Avalon": {
+  "event": "UiPath AgentHack 2025 (global, online), Agentic Testing 1st place",
+  "url": "https://forum.uipath.com/t/here-are-the-uipath-agenthack-2025-winners/3586396"
+ },
+ "SoloPath": {
+  "event": "UiPath AgentHack 2025 (global, online), Agentic Testing 2nd place + Business Ready Agent",
+  "url": "https://forum.uipath.com/t/here-are-the-uipath-agenthack-2025-winners/3586396"
+ },
+ "ARIA": {
+  "event": "Anthropic Built with Opus 4.7 Claude Code Hackathon 2026 (virtual), Best Use of Claude Managed Agents",
+  "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon"
+ },
+ "Project LUCID": {
+  "event": "SAS Hackathon 2025, Global Champion Industry Energy Track",
+  "url": "https://www.digitalnewsasia.com/digital-economy/apu-undergraduates-win-global-industry-energy-track-sas-hackathon-2025"
+ },
+ "YellowGrid": {
+  "event": "CleanTech Hackathon 2025 (ENERGY EXPO), 1st place, Bucharest",
+  "url": "https://green.start-up.ro/en/the-startups-that-won-the-2025-edition-of-the-cleantech-hackathon/"
+ },
+ "Energy Agent AI": {
+  "event": "Agent Development Kit Hackathon with Google Cloud 2025 (online), North America winner",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights"
+ },
+ "Terra-Optima": {
+  "event": "FAO Reboot the Earth Hackathon 2025 (Morocco edition), 1st place, Rabat",
+  "url": "https://www.fao.org/e-agriculture/news/terra-optima-wins-moroccos-edition-reboot-earth-hackathon"
+ },
+ "Field Advisor": {
+  "event": "FAO Reboot the Earth Hackathon 2025, 2nd place, Rome",
+  "url": "https://www.johncabot.edu/news/2025/10/fao-hackathon-2025"
+ },
+ "AgroSentinel": {
+  "event": "4th FAO-CAAS Youth Hackathon on One Health 2025, 3rd prize (New Service Track)",
+  "url": "https://extension.ait.asia/node/1755"
+ },
+ "EcoGuardian.AI": {
+  "event": "AI x City Climate Action Hackathon 2025 (Global Covenant of Mayors), winner, Climate Week NYC",
+  "url": "https://www.globalcovenantofmayors.org/press/winners-2025-ai-city-climate-action-hackathon-at-climate-week-nyc/"
+ },
+ "Tese": {
+  "event": "G20 TechSprint 2024 (BIS & Banco Central do Brasil), winner, Brazil",
+  "url": "https://www.bis.org/press/p241127.htm"
+ },
+ "Kaleidofin": {
+  "event": "G20 TechSprint 2024 (BIS & Banco Central do Brasil), winner, Brazil",
+  "url": "https://www.bis.org/press/p241127.htm"
+ },
+ "Claimsio": {
+  "event": "MAS Global FinTech Hackcelerator 2025, winner, Singapore FinTech Festival",
+  "url": "https://www.mas.gov.sg/news/media-releases/2025/mas-and-sfa-announce-fintech-award-winners-at-singapore-fintech-festival-2025"
+ },
+ "Oxford Risk": {
+  "event": "MAS Global FinTech Hackcelerator 2025, winner, Singapore FinTech Festival",
+  "url": "https://www.mas.gov.sg/news/media-releases/2025/mas-and-sfa-announce-fintech-award-winners-at-singapore-fintech-festival-2025"
+ },
+ "POLARLYST AI": {
+  "event": "SEC/TDRI/CMDF/FETCO Hackathon 'Transforming the Thai Capital Market' 2025, Thailand, 1st",
+  "url": "https://thaipublica.org/2025/02/tdri-cmdf-fetco-sec-hackathon-transforming-the-thai-capital-market/"
+ },
+ "TradeSageAI": {
+  "event": "Agent Development Kit Hackathon with Google Cloud 2025 (online), Honorable Mention #2",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights"
+ },
+ "InsureScan": {
+  "event": "Alibaba Cloud AI Hackathon Malaysia 2025, 1st",
+  "url": "https://www.alibabacloud.com/blog/inaugural-alibaba-cloud-ai-hackathon-malaysia-sparks-innovation-collaboration-and-digital-leadership_602288"
+ },
+ "Kava": {
+  "event": "HackMIT 2025, Cambridge MA, EigenCloud Sponsor Prize track winner",
+  "url": "https://www.khoury.northeastern.edu/khoury-undergrads-win-three-categories-at-prestigious-mit-hackathon"
+ },
+ "Agent Halo Agent Networks": {
+  "event": "Salesforce TDX 2025 Agentforce Hackathon, San Francisco, 1st place",
+  "url": "https://www.salesforce.com/news/stories/agentforce-hackathon-tdx-2025-recap/"
+ },
+ "The Hammurabi": {
+  "event": "Stanford LLM x Law Hackathon Fall 2024, Best VC, Stanford",
+  "url": "https://law.stanford.edu/2024/11/15/llm-x-law-hackathon-a-retrospective-on-catalyzing-innovation-in-legal/"
+ },
+ "AI Insurance Chatbot Platform (Team Rep Monkeys)": {
+  "event": "SingHacks 2025 (Ancileo x MSIG Conversational Insurance Challenge), Singapore, 3rd",
+  "url": "https://www.ntu.edu.sg/honours-college/admissions/undergraduate/premier-scholar-programmes/renaissance-engineering-programme/achievements/year-2025/singhacks-(ancileo-x-msig-challenge)"
+ },
+ "GoZero": {
+  "event": "Alibaba Cloud Indonesia GenAI Hackathon 2025 (with GoTo), Indonesia, 3rd",
+  "url": "https://www.alibabacloud.com/blog/building-real-solutions-how-indonesias-developers-tackled-ai-innovation_602280"
+ },
+ "PillSnap": {
+  "event": "SGHackItRX 2025 (Pharmaceutical Society of Singapore), 1st Runner-up",
+  "url": "https://www.sutd.edu.sg/achievements-listing/1st-runner-up-in-sghackitrx-2025-pillsnap"
+ },
+ "PostVisit.ai": {
+  "event": "Anthropic Built with Opus 4.6 Claude Code Hackathon 2026 (virtual), 3rd place",
+  "url": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon"
+ },
+ "Welli": {
+  "event": "OutSystems AI Agent Hackathon 2025 (Japan & Korea), Enterprise 1st",
+  "url": "https://technode.global/prnasia/outsystems-announces-the-successful-completion-of-ai-agent-hackathon-2025-showcasing-ai-powered-low-code/"
+ },
+ "Vite Vere Offline": {
+  "event": "Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 2nd place",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/developers-changing-lives-with-gemma-3n/"
+ },
+ "Hanamo": {
+  "event": "OutSystems AI Agent Hackathon 2025 (Japan & Korea), MVP Award",
+  "url": "https://technode.global/prnasia/outsystems-announces-the-successful-completion-of-ai-agent-hackathon-2025-showcasing-ai-powered-low-code/"
+ },
+ "Gemma Vision": {
+  "event": "Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 1st place",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/developers-changing-lives-with-gemma-3n/"
+ },
+ "Signity": {
+  "event": "Microsoft ASEAN AI for Accessibility Hackathon 2025, Champion (UTP regional), Malaysia",
+  "url": "https://utp.edu.my/pages/students/student%20development%20and%20services/stories/utp-students-shine-at-microsoft-asean-ai-for-accessibility-hackathon-2025.aspx"
+ },
+ "Silentalk": {
+  "event": "Inter-University GenAI Hackathon for the SDGs 2025, Silver, Hong Kong",
+  "url": "https://commoncore.hku.hk/2025/11/26/and-the-winners-are/"
+ },
+ "Lifting Risk Analysis": {
+  "event": "Super AI Engineer: 5th National AI Exhibition 2025, Thailand, Best AI Innovation Award",
+  "url": "https://kku.ac.th/?p=253898"
+ },
+ "Team Road Runners police training simulator": {
+  "event": "HacX! Hack for Public Safety 2025 (HTX x Microsoft), Singapore, Horizon 1st + Overall Impact",
+  "url": "https://www.htx.gov.sg/whats-happening/all-news---events/all-news/2025/young-innovators-take-the-stage-at-hacx-hack-for-public-safety-2025"
+ },
+ "Sixth Sense for Security Guards": {
+  "event": "Google Gemma 3n Impact Challenge 2025 (Kaggle, online), 4th place",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/developers-changing-lives-with-gemma-3n/"
+ },
+ "Hawkwatch": {
+  "event": "TreeHacks 2025, Stanford, Grand Prize",
+  "url": "https://stanforddaily.com/2025/02/18/treehacks-awards-200000-in-prizes-to-students-from-around-the-world/"
+ },
+ "MigrAssist": {
+  "event": "Inter-University GenAI Hackathon for the SDGs 2025, Gold, Hong Kong",
+  "url": "https://commoncore.hku.hk/2025/11/26/and-the-winners-are/"
+ },
+ "HireCompass": {
+  "event": "Start Smart Hackathon Autumn 2025, shared 1st place, Estonia",
+  "url": "https://centralbaltic.eu/project-news/start-smart-hackathon-winners-innovated-future-proof-solutions/"
+ },
+ "RaoChatHub": {
+  "event": "Super AI Engineer Season 5 (AI Innovator Track) 2025, Thailand, 1st (Eastern center)",
+  "url": "https://bu.ac.th/en/engineering/featured-stories/2183"
+ },
+ "LENTERA": {
+  "event": "Google Gemma 3n Impact Challenge 2025 (Kaggle, online), Ollama Prize",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/developers-changing-lives-with-gemma-3n/"
+ },
+ "Nexora-AI": {
+  "event": "Agent Development Kit Hackathon with Google Cloud 2025 (online), EMEA winner",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights"
+ },
+ "Edu.AI": {
+  "event": "Agent Development Kit Hackathon with Google Cloud 2025 (online), Latin America winner",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights"
+ },
+ "Dyscover": {
+  "event": "Wharton Hack-AI-thon 2025, 1st place AI for Education, Philadelphia",
+  "url": "https://ai-analytics.wharton.upenn.edu/news/fighting-dyslexia-breaking-chatbots-inside-the-winning-projects-of-whartons-2025-hack-ai-thon/"
+ },
+ "KancaKids": {
+  "event": "BI x OJK Hackathon 2025, Indonesia, Student 2nd",
+  "url": "https://binus.ac.id/semarang/computer-science/?p=384"
+ },
+ "Mule Observation Detection Engine": {
+  "event": "KrungsriUniVerse x KMITL Hackathon: Mule Hunt Challenge 2025, Thailand, 1st",
+  "url": "https://www.it.kmitl.ac.th/en/posts/first-prize-from-the-krungsriuniverse-x-kmitl-hackathon-competition"
+ },
+ "Otorag": {
+  "event": "SK Telecom x Anthropic Claude Code Builder Hackathon 2025, Seoul, 1st place",
+  "url": "https://en.fnnews.com/news/202511040939583366"
+ },
+ "Comply AI": {
+  "event": "Stanford LLM x Law Hackathon Fall 2024, Best First Build, Stanford",
+  "url": "https://law.stanford.edu/2024/11/15/llm-x-law-hackathon-a-retrospective-on-catalyzing-innovation-in-legal/"
+ },
+ "PoliSights.ai": {
+  "event": "BU Spark! Civic Tech Hackathon 2025, Best Use of AI, Boston",
+  "url": "https://www.bu.edu/spark/2025/03/05/2025-civic-tech-hackathon-breaks-record-in-attendance-and-creativity/"
+ },
+ "Warhol": {
+  "event": "Stanford CodeX LLM x Law Hackathon 2026 (FutureLaw Week), Harvey Challenge Award, Stanford",
+  "url": "https://law.stanford.edu/stanford-lawyer/articles/built-in-a-day-stanford-law-students-create-award-winning-copyright-tool-at-codex-hackathon/"
+ },
+ "DripSeek": {
+  "event": "SuperAI NEXT Hackathon 2025, Singapore, winner (one of four)",
+  "url": "https://www.sutd.edu.sg/achievements-listing/winners-in-superai-next-hackathon-2025-dripseek/"
+ },
+ "FundSight AI": {
+  "event": "Alibaba Cloud AI Hackathon Malaysia 2025, 3rd",
+  "url": "https://www.alibabacloud.com/blog/inaugural-alibaba-cloud-ai-hackathon-malaysia-sparks-innovation-collaboration-and-digital-leadership_602288"
+ },
+ "Pine AI": {
+  "event": "VNPT AI Hackathon 2025 (The Dreamer track), Vietnam, 1st",
+  "url": "https://daibieunhandan.vn/tim-ra-quan-quan-duong-dua-ai-ty-dong-vnpt-ai-hackathon-2025-10402372.html"
+ },
+ "Empathos": {
+  "event": "VNPT AI Hackathon 2025 (The Dreamer track), Vietnam, 2nd",
+  "url": "https://daibieunhandan.vn/tim-ra-quan-quan-duong-dua-ai-ty-dong-vnpt-ai-hackathon-2025-10402372.html"
+ },
+ "WaiJai": {
+  "event": "AFTERKLASS Business KAMP 2025: Youth for Good (KBank), Thailand, 2nd",
+  "url": "https://www.dailynews.co.th/news/5311858/"
+ },
+ "MeetMate": {
+  "event": "VNPT AI Hackathon 2025 (The Dreamer track), Vietnam, 3rd",
+  "url": "https://daibieunhandan.vn/tim-ra-quan-quan-duong-dua-ai-ty-dong-vnpt-ai-hackathon-2025-10402372.html"
+ },
+ "Healthfood Advisory": {
+  "event": "Alibaba Cloud Indonesia GenAI Hackathon 2025 (with GoTo), Indonesia, 2nd",
+  "url": "https://www.alibabacloud.com/blog/building-real-solutions-how-indonesias-developers-tackled-ai-innovation_602280"
+ },
+ "Baan Oon Jai": {
+  "event": "AFTERKLASS Business KAMP 2025: Youth for Good (KBank), Thailand, 1st",
+  "url": "https://www.dailynews.co.th/news/5311858/"
+ },
+ "Medtelligence": {
+  "event": "Healthcare Hackathon Bavaria 2025, 3rd place, Munich",
+  "url": "https://www.bayern-innovativ.de/en/emagazine/detail/healthcare-hackathon-bayern-2025-in-muenchen-ein-rueckblick/"
+ },
+ "ASGI": {
+  "event": "MSIT AI Challenge & Hackathon 2025, Korea, Hackathon Grand Prize",
+  "url": "https://newsseoul.co.kr/news/view/1065601804287587"
+ },
+ "OpenCubee": {
+  "event": "Ho Chi Minh City AI Challenge 2025, Vietnam, 1st (Division A)",
+  "url": "https://lsvn.vn/le-tong-ket-trao-giai-hoi-thi-thu-thach-tri-tue-nhan-tao-tp-ho-chi-minh-nam-2025-a166529.html"
+ },
+ "Retinal Scan Tracking App": {
+  "event": "AI International Hackathon 2025 (SIT KMUTT), Thailand, 2nd",
+  "url": "https://ic2.sit.kmutt.ac.th/ic2-students-excel-at-ai-international-hackathon-2025/"
+ },
+ "Konveyor": {
+  "event": "Microsoft AI Agents Hackathon 2025 (virtual), Best Python Agent",
+  "url": "https://microsoft.github.io/AI_Agents_Hackathon/winners/"
+ },
+ "Dream Assistant": {
+  "event": "Google Gemma 3n Impact Challenge 2025 (Kaggle, online), Unsloth Prize",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/developers-changing-lives-with-gemma-3n/"
+ },
+ "Elisa": {
+  "event": "Anthropic Built with Opus 4.6 Claude Code Hackathon 2026 (virtual), 2nd place",
+  "url": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon"
+ },
+ "MaestrIA": {
+  "event": "Anthropic Built with Opus 4.7 Claude Code Hackathon 2026 (virtual), Keep Thinking Prize",
+  "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon"
+ },
+ "SafeContractor": {
+  "event": "BU Spark! Civic Tech Hackathon 2025, Overall Winner, Boston",
+  "url": "https://www.bu.edu/spark/2025/03/05/2025-civic-tech-hackathon-breaks-record-in-attendance-and-creativity/"
+ },
+ "Vet's Claim": {
+  "event": "Stanford CodeX LLM x Law Hackathon 2024 (spring), Best Overall, Stanford",
+  "url": "https://law.stanford.edu/stanford-lawyer/articles/revolutionizing-legal-tech-in-48-hours"
+ },
+ "ActuaViz": {
+  "event": "MAS Global FinTech Hackcelerator 2025, winner, Singapore FinTech Festival",
+  "url": "https://www.mas.gov.sg/news/media-releases/2025/mas-and-sfa-announce-fintech-award-winners-at-singapore-fintech-festival-2025"
+ },
+ "Apollo": {
+  "event": "Microsoft AI Agents Hackathon 2025 (virtual), Best C# Agent",
+  "url": "https://microsoft.github.io/AI_Agents_Hackathon/winners/"
+ },
+ "ClaimGuardian 360": {
+  "event": "UiPath AgentHack 2025 (global, online), Enterprise Agents 2nd place (team Rakshak AI)",
+  "url": "https://forum.uipath.com/t/here-are-the-uipath-agenthack-2025-winners/3586396"
+ },
+ "WiseWatts": {
+  "event": "CleanTech Hackathon 2025 (ENERGY EXPO), 2nd place, Bucharest",
+  "url": "https://green.start-up.ro/en/the-startups-that-won-the-2025-edition-of-the-cleantech-hackathon/"
+ },
+ "Tax Aggregation Model": {
+  "event": "Oxford Legal Tech Hackathon 2026 (BRYTER & Reed Smith), 1st place, Oxford",
+  "url": "https://bryter.com/blog/legal-innovation-hands-on-the-2026-oxford-legal-tech-hackathon/"
+ },
+ "BIPBIP (Branch Intelligence Platform)": {
+  "event": "BPI D.A.T.A. Wave Hackathon 2025, Philippines, Digitalization Track Champion",
+  "url": "https://www.feutech.edu.ph/features/feu-tech-students-are-champions-of-digitalization-at-bpi-data-wave-2025"
+ },
+ "TARA": {
+  "event": "Anthropic Built with Opus 4.6 Claude Code Hackathon 2026 (virtual), Keep Thinking Prize",
+  "url": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon"
+ },
+ "Polisense.AI": {
+  "event": "AI x City Climate Action Hackathon 2025 (Global Covenant of Mayors), winner, Climate Week NYC",
+  "url": "https://www.globalcovenantofmayors.org/press/winners-2025-ai-city-climate-action-hackathon-at-climate-week-nyc/"
+ },
+ "AegisAI": {
+  "event": "AFTERKLASS Business KAMP 2025: Youth for Good (KBank), Thailand, 3rd",
+  "url": "https://www.dailynews.co.th/news/5311858/"
+ },
+ "LUNA": {
+  "event": "MSIT AI Challenge & Hackathon 2025, Korea, Challenge Grand Prize",
+  "url": "https://newsseoul.co.kr/news/view/1065601804287587"
+ },
+ "Justi-Aid": {
+  "event": "Legal Hackathon Cologne 2025, 1st place, Germany",
+  "url": "https://www.lto.de/recht/legal-tech/l/legal-hackathon-cologne-2025"
+ },
+ "Case Summary Workflow": {
+  "event": "Oxford Legal Tech Hackathon 2026 (BRYTER & Reed Smith), 2nd place, Oxford",
+  "url": "https://bryter.com/blog/legal-innovation-hands-on-the-2026-oxford-legal-tech-hackathon/"
+ },
+ "PlainRights": {
+  "event": "University of Auckland Legal Tech Hackathon 2025, 1st place, New Zealand",
+  "url": "https://www.auckland.ac.nz/en/news/2025/08/20/legal-tech-hackathon-challenges-students-to-rethink-access-to-justice.html"
+ },
+ "TrialIQ Agents": {
+  "event": "UiPath AgentHack 2025 (global, online), Grand Prize Agent of the Future",
+  "url": "https://forum.uipath.com/t/here-are-the-uipath-agenthack-2025-winners/3586396"
+ },
+ "Maieutic": {
+  "event": "Anthropic Built with Opus 4.7 Claude Code Hackathon 2026 (virtual), 3rd place",
+  "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon"
+ }
+}
