@@ -16,7 +16,7 @@ A Thai hackathon team of 3–4 people preparing for the Sea × OpenAI Regional C
 
 ## Product Purpose
 
-Help the team pick one idea with confidence. Each idea is scored against the four judging criteria and carries enough depth (problem, flow, autonomy, Codex role, 12-hour scope, demo moment, risks, upgrade plan) to judge whether it can win and be built in one day. Success: the team narrows 145 ideas to a shortlist, compares finalists, and commits to one.
+Help the team pick one idea with confidence. Each idea is scored against the four judging criteria and carries enough depth (problem, flow, autonomy, Codex role, 12-hour scope, demo moment, risks, upgrade plan) to judge whether it can win and be built in one day. Success: the team narrows 317 ideas to a shortlist, compares finalists, and commits to one.
 
 ## Positioning
 
@@ -31,7 +31,7 @@ Every idea is adapted from a real winning project at a Thai or international hac
 
 ## Capabilities and Constraints
 
-- 145 ideas (#1–#145): 105 Track 1/2, 40 Track 3. Data in `src/data/ideas.json`, sources in `src/data/sources.json`.
+- 317 ideas (#1–#317): 104 Track 1, 120 Track 2, 93 Track 3. Data in `src/data/ideas.json`, sources in `src/data/sources.json`.
 - Each idea: name, track, SDGs, based-on projects, idea, Thai twist, score before and after upgrade, detail (problem, users, how, autonomy, unexpected, codex, mvp, data, demo, sdg, sea, risks, pitch; Track 3 also domain + expert), upgrade (weakness, fixes, killer, proof, combo).
 - Required: search, filter by track and SDG, sort by score, shortlist (per viewer, browser storage), full detail view, jump between ideas and to combo ideas, links to sources.
 - Artifact constraints: single HTML file, no external requests except Google Fonts, no downloads, no print, works at phone width, light and dark themes.
@@ -39,7 +39,7 @@ Every idea is adapted from a real winning project at a Thai or international hac
 
 ## Evidence on Hand
 
-- Winner sources (59) with event names and URLs in `src/data/sources.json`.
+- Winner sources (158) with event names and URLs in `src/data/sources.json`.
 - Scores, details and upgrades are Claude's estimates and proposals, not results. Figures marked "(หาตัวเลขอ้างอิงก่อน pitch)" or "(ตรวจสอบกับแหล่งทางการ)" are unverified and must stay marked. Do not present any number as a measured result.
 
 ## Product Principles

@@ -1,6 +1,6 @@
 ---
 name: คลังไอเดีย (Hackathon Idea Bank)
-description: A Thai team's decision tool for narrowing 145 scored hackathon ideas to one, where each idea wears a day-colour ribbon.
+description: A Thai team's decision tool for narrowing 317 scored hackathon ideas to one, where each idea wears a day-colour ribbon.
 colors:
   paper: "#fbfbf8"
   panel: "#f3f3ee"
